@@ -1,0 +1,155 @@
+[DEBUG] 2020-03-18 19:27:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 19:27:56 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-18 19:27:56 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-18 19:28:02 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-18 19:28:02 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 19:28:02 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-18 19:28:02 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-18 19:28:02 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-18 19:28:04 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 19:28:04 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-18 19:28:04 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 19:28:05 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-18 19:28:05 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-18 21:20:09 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 21:20:09 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-18 21:20:09 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-18 21:20:12 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-18 21:20:12 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 21:20:12 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-18 21:20:13 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-18 21:20:13 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-18 21:20:13 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 21:20:13 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-18 21:20:13 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 21:20:14 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-18 21:22:22 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-18 21:22:22 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-18 21:22:23 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-18 21:22:26 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 21:32:27 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 21:32:27 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-18 21:32:27 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-18 21:32:32 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-18 21:32:32 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 21:32:32 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-18 21:32:32 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-18 21:32:32 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-18 21:32:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 21:32:33 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-18 21:32:33 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 21:32:33 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-18 21:32:34 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-18 21:34:48 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-18 21:34:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-18 21:34:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-18 21:34:54 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 21:42:24 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 21:42:24 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-18 21:42:24 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-18 21:42:27 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-18 21:42:27 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 21:42:27 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-18 21:42:28 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-18 21:42:28 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-18 21:42:28 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 21:42:28 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-18 21:42:28 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 21:42:29 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-18 21:42:29 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-18 21:50:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-18 21:50:29 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-18 21:50:29 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-18 21:50:30 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 22:09:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 22:09:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-18 22:09:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-18 22:10:03 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-18 22:10:03 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 22:10:03 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-18 22:10:03 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-18 22:10:03 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-18 22:10:04 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 22:10:04 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-18 22:10:04 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 22:10:05 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-18 22:10:06 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-18 22:10:06 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-18 22:10:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-18 22:10:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-18 22:10:30 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-18 22:10:31 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 22:10:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 22:10:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-18 22:10:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-18 22:10:50 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-18 22:10:50 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 22:10:50 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-18 22:10:51 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-18 22:10:51 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-18 22:10:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 22:10:55 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-18 22:10:55 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 22:10:55 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-18 22:10:56 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-18 22:10:56 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-18 22:12:16 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Job Title
+[DEBUG] 2020-03-18 22:13:41 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-18 22:13:41 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-18 22:13:41 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-18 22:13:41 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 22:13:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 22:13:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-18 22:13:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-18 22:13:59 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-18 22:13:59 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 22:13:59 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-18 22:13:59 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-18 22:13:59 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-18 22:14:00 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 22:14:00 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-18 22:14:00 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 22:14:00 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-18 22:14:01 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-18 22:14:01 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-18 22:14:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-18 22:14:01 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-18 22:14:01 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-18 22:14:02 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 22:14:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 22:14:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-18 22:14:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-18 22:14:17 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-18 22:14:17 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 22:14:17 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-18 22:14:17 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-18 22:14:17 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-18 22:14:18 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 22:14:18 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-18 22:14:18 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 22:14:18 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-18 22:14:19 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-18 22:14:19 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-18 22:15:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-18 22:15:01 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-18 22:15:01 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-18 22:15:01 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-18 22:17:31 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-18 22:17:31 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-18 22:17:31 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-18 22:17:38 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-18 22:17:38 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-18 22:17:38 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-18 22:17:39 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-18 22:17:39 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-18 22:17:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-18 22:17:40 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-18 22:17:40 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-18 22:17:41 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-18 22:17:41 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-18 22:17:42 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-18 22:18:09 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Job Title
+[DEBUG] 2020-03-18 22:19:20 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-18 22:19:20 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-18 22:19:20 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-18 22:19:20 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser

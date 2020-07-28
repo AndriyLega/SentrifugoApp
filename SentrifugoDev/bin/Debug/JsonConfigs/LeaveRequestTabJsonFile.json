@@ -1,0 +1,12 @@
+{
+  //List of warning messages
+  "PreviousMonthPopupWarningMessage": "Leave cannot be applied for previous month.",
+  "EmptyLeaveTypeFieldWarningMessage": "Please select leave type.",
+  "EmptyReasonTextAreaWarningMessage": "Please enter reason.",
+  "EmptyDateFieldWarningMessage": "Please select date.",
+  "IncorrectFromDateWarningMessage": "From date should be less than to date.",
+  "IncorrectToDateWarningMessage": "To date should be greater than from date.",
+  "AppliedLeaveAboutDateWarningMessage": "Leave has already been applied for the above dates.",
+  "WeekendHolodaysPopupWarningMessage": "You cannot apply leave on Weekend/Holidays.",
+  "FutureYearWarningMessage": "Leave cannot be applied for future year.",
+}

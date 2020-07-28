@@ -1,0 +1,28 @@
+{
+  //List of input data
+  "ValidPassword": "Asdf*2810",
+  "ValidUserName": "EMPP0049",
+  "InvalidUserName": "2EMPP0049",
+  "InvalidPassword": "1Asdf*2810",
+  "ValidEmail": "lega1@mailinator.com",
+  "InvalidEmail": "lega1mailinator.com",
+  "NotExistEmail": "test@test.com",
+  "RecruitmentsUserName": "EMPP0049",
+  "SuperAdminUserName": "empp0001",
+  "HRUserName": "EMPP11111",
+  "EmpolyeeUserName": "EMPP0025",
+  "UserRolesPassword": "Asdf*2810",
+
+  //List of warning messages
+  "EmptyEmailWarningMessage": "Please enter username or email.",
+  "EmptyPasswordWarningMessage": "Please enter password.",
+  "IncorrectCredsWarningMessage": "The username or password you entered is incorrect.",
+  "EmptyEmailWarningMessageInForgotPasswordForm": "Please enter an email.",
+  "NotExistEmailWarningMessageInForgotPasswordForm": "Email does not exist.",
+  "InvalidEmailWarningMessageInForgotPasswordFform": "Please enter a valid email.",
+  "SuccessSendPasswordMessage": "New password is sent to given Email",
+
+  //List of urls
+  "SentrifugoDev" : "http://sentrifugo-prerelease.jetsoftpro.com/", 
+  "GetingStartedPdfFile": "https://sentrifugo-prerelease.jetsoftpro.com/public/downloads/gettingstarted.pdf"
+}

@@ -1,0 +1,954 @@
+[DEBUG] 2020-03-25 13:51:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 13:51:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 13:51:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 13:51:08 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 13:51:08 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 13:51:08 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 13:51:08 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 13:51:08 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 13:51:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 13:51:09 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 13:51:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 13:51:10 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 13:51:10 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 13:51:31 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:51:31 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 13:51:37 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:51:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 13:51:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 13:51:52 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 13:51:52 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 13:52:36 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 13:52:36 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 13:52:36 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 13:52:40 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 13:52:40 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 13:52:40 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 13:52:40 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 13:52:41 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 13:52:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 13:52:47 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 13:52:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 13:52:48 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 13:52:49 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 13:52:54 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:52:54 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 13:53:02 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:53:06 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:53:06 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 50
+[DEBUG] 2020-03-25 13:53:08 - SentrifugoDev.CommonLip.LogUtil Selected option by 100in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:53:16 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:53:16 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 81
+[DEBUG] 2020-03-25 13:53:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 13:53:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 13:53:40 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 13:53:40 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 13:56:59 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 13:56:59 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 13:56:59 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 13:57:04 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 13:57:04 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 13:57:04 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 13:57:04 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 13:57:05 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 13:57:14 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 13:57:14 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 13:57:14 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 13:57:14 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 13:57:15 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 13:57:30 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:57:30 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 13:58:39 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 13:58:39 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 13:58:39 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 13:58:43 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 13:58:43 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 13:58:43 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 13:58:43 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 13:58:43 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 13:58:44 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 13:58:44 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 13:58:44 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 13:58:44 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 13:58:45 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 13:58:52 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 13:58:54 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:58:57 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 50
+[DEBUG] 2020-03-25 13:58:59 - SentrifugoDev.CommonLip.LogUtil Selected option by 100in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:59:00 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 81
+[DEBUG] 2020-03-25 13:59:05 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 13:59:05 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 13:59:05 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 13:59:05 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 13:59:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 13:59:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 13:59:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 13:59:22 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 13:59:22 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 13:59:22 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 13:59:22 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 13:59:22 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 13:59:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 13:59:23 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 13:59:23 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 13:59:24 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 13:59:24 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 13:59:24 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 13:59:24 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:59:24 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 13:59:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 13:59:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 13:59:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 13:59:25 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 13:59:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 13:59:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 13:59:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 13:59:51 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 13:59:51 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 13:59:51 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 13:59:51 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 13:59:51 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 13:59:51 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 13:59:51 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 13:59:51 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 13:59:52 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 13:59:52 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 13:59:52 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 13:59:52 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 13:59:52 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 14:01:00 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 14:01:00 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:01:00 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 14:01:17 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 50
+[DEBUG] 2020-03-25 14:01:18 - SentrifugoDev.CommonLip.LogUtil Selected option by 100in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:01:20 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 81
+[DEBUG] 2020-03-25 14:01:38 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 14:01:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 14:01:43 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 14:01:43 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 14:30:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 14:30:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 14:30:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 14:30:32 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 14:30:32 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 14:30:32 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 14:30:32 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 14:30:32 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 14:30:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 14:30:33 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 14:30:33 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 14:30:33 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 14:30:33 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 14:30:33 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 14:30:34 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:30:34 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 50
+[DEBUG] 2020-03-25 14:30:34 - SentrifugoDev.CommonLip.LogUtil Selected option by 100in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:30:35 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 81
+[DEBUG] 2020-03-25 14:30:35 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 14:30:35 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 14:30:35 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 14:30:35 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 14:30:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 14:30:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 14:30:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 14:30:51 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 14:30:51 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 14:30:51 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 14:30:51 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 14:30:51 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 14:30:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 14:30:54 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 14:30:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 14:30:55 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 14:30:55 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 14:30:55 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 14:30:55 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:30:56 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 50
+[DEBUG] 2020-03-25 14:30:56 - SentrifugoDev.CommonLip.LogUtil Selected option by 100in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:30:56 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 81
+[DEBUG] 2020-03-25 14:31:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 14:31:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 14:31:10 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 14:31:10 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 14:37:31 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 14:37:32 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 14:37:32 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 14:37:35 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 14:37:35 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 14:37:35 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 14:37:35 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 14:37:35 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 14:37:36 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 14:37:36 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 14:37:36 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 14:37:36 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 14:37:37 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 14:37:37 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 14:37:37 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:37:38 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 50
+[DEBUG] 2020-03-25 14:37:38 - SentrifugoDev.CommonLip.LogUtil Selected option by 100in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:37:38 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 81
+[DEBUG] 2020-03-25 14:37:38 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 81
+[DEBUG] 2020-03-25 14:38:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 14:38:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 14:38:53 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 14:38:53 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 14:47:49 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 14:47:49 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 14:47:49 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 14:47:52 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 14:47:52 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 14:47:52 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 14:47:53 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 14:47:53 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 14:47:56 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 14:47:56 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 14:47:56 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 14:47:56 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 14:47:57 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 14:47:57 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-25 14:47:57 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:47:58 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 50
+[DEBUG] 2020-03-25 14:47:58 - SentrifugoDev.CommonLip.LogUtil Selected option by 100in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:47:58 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 81
+[DEBUG] 2020-03-25 14:47:58 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 81
+[DEBUG] 2020-03-25 14:47:58 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 81
+[DEBUG] 2020-03-25 14:47:58 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 81
+[DEBUG] 2020-03-25 14:47:58 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 14:47:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 14:47:59 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 14:48:00 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 14:50:08 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 14:50:08 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 14:50:08 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 14:50:11 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 14:50:11 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 14:50:11 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 14:50:11 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 14:50:11 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 14:50:12 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 14:50:12 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 14:50:12 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 14:50:12 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 14:50:13 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-25 14:50:13 - SentrifugoDev.CommonLip.LogUtil Selected option by 50in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:50:13 - SentrifugoDev.CommonLip.LogUtil Selected option by 100in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:50:14 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 81
+[DEBUG] 2020-03-25 14:50:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 14:50:14 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 14:50:14 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 14:50:14 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 14:55:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 14:55:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 14:55:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 14:55:22 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 14:55:22 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 14:55:22 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 14:55:22 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 14:55:23 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 14:55:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 14:55:23 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 14:55:23 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 14:55:23 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 14:55:24 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 14:55:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-25 14:55:24 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 14:55:25 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:55:25 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 14:55:25 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 14:55:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 14:55:26 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 14:55:26 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 14:55:26 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 14:55:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 14:55:26 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 14:55:26 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 33
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 33
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Approved Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 14:55:27 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 14:55:28 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 14:55:28 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 14:55:28 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:13:54 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:13:54 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:13:54 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:14:00 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:14:00 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:14:00 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:14:00 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:14:00 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:14:05 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:14:05 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:14:05 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:14:05 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:14:06 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:14:06 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:14:06 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:14:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 15:14:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 15:14:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 15:14:25 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:14:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:14:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:14:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:14:40 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:14:40 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:14:40 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:14:40 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:14:40 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:14:41 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:14:41 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:14:41 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:14:41 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:14:42 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:14:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:14:42 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:14:42 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 0
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 0
+[DEBUG] 2020-03-25 15:14:43 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:14:44 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:14:44 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:14:44 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:14:44 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 34
+[DEBUG] 2020-03-25 15:14:44 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 34
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Approved Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 15:14:45 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:21:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:21:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:21:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:21:20 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:21:20 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:21:20 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:21:20 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:21:20 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:21:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:21:21 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:21:21 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:21:21 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:21:22 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:21:22 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:21:22 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:21:22 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 0
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 0
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:21:23 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:21:24 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 34
+[DEBUG] 2020-03-25 15:21:24 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 34
+[DEBUG] 2020-03-25 15:21:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-25 15:21:24 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:21:24 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-25 15:21:24 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-25 15:21:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Approved Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:21:24 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:21:24 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:21:25 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:21:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 15:21:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 15:21:25 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 15:21:25 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:23:40 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:23:40 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:23:40 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:23:43 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:23:43 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:23:43 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:23:43 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:23:43 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:23:44 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:23:44 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:23:44 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:23:44 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:23:44 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:23:45 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:23:45 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:23:45 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:23:45 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:23:45 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 15:23:45 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 15:23:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:23:46 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:23:46 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:23:46 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:23:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:23:46 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:23:46 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:23:46 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:23:47 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 34
+[DEBUG] 2020-03-25 15:23:47 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 34
+[DEBUG] 2020-03-25 15:23:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-25 15:23:47 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:23:47 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-25 15:23:47 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-25 15:23:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Approved Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:23:47 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:23:47 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:23:47 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:23:48 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 15:23:48 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 15:23:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 15:23:48 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:27:25 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:27:25 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:27:25 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:27:30 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:27:30 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:27:30 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:27:30 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:27:30 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:27:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:27:31 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:27:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:27:31 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:27:32 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:27:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:27:51 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:28:21 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:28:30 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:28:37 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 15:29:09 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 15:30:02 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:30:40 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:30:40 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:30:49 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:30:50 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:30:50 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:30:50 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:30:50 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:30:50 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 34
+[DEBUG] 2020-03-25 15:30:50 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 34
+[DEBUG] 2020-03-25 15:30:51 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-25 15:30:51 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:30:51 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-25 15:30:51 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-25 15:30:51 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Approved Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:30:51 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:30:51 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:30:51 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:30:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 15:30:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 15:30:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 15:30:54 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:45:01 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:45:01 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:45:01 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:45:05 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:45:05 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:45:05 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:45:05 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:45:05 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:45:06 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:45:06 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:45:06 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:45:06 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:45:07 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:45:07 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:45:07 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:45:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-25 15:45:08 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-25 15:45:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-25 15:45:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-25 15:45:09 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-25 15:45:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-25 15:45:14 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-25 15:45:14 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-25 15:45:14 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:45:14 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:45:14 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:45:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:45:14 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:45:15 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:45:15 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 34
+[DEBUG] 2020-03-25 15:45:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:45:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Cancel' button of 1th record in Table plugin
+[DEBUG] 2020-03-25 15:45:16 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Ok' button of appeared popup window in My Leave  tab
+[DEBUG] 2020-03-25 15:45:18 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:46:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:46:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:46:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:46:41 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:46:41 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:46:41 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:46:41 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:46:41 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:46:41 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:46:41 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:46:41 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:46:42 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:46:42 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:46:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:46:43 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:46:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-25 15:46:44 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-25 15:46:44 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-25 15:46:44 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-25 15:46:44 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-25 15:46:45 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-25 15:46:48 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-25 15:46:48 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-25 15:46:48 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:46:48 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:46:48 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:46:49 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:46:49 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:46:49 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:46:49 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 35
+[DEBUG] 2020-03-25 15:46:50 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:46:50 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Cancel' button of 1th record in Table plugin
+[DEBUG] 2020-03-25 15:46:50 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Ok' button of appeared popup window in My Leave  tab
+[DEBUG] 2020-03-25 15:46:52 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:47:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:47:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:47:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:47:20 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:47:20 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:47:20 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:47:20 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:47:20 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:47:20 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:47:20 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:47:20 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:47:21 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:47:21 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:47:21 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:47:21 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:47:22 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-25 15:47:22 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-25 15:47:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-25 15:47:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-25 15:47:23 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-25 15:47:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-25 15:47:27 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-25 15:47:27 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-25 15:47:27 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:47:27 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:47:27 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:47:39 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:47:39 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:47:39 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:47:40 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 36
+[DEBUG] 2020-03-25 15:47:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:47:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Cancel' button of 1th record in Table plugin
+[DEBUG] 2020-03-25 15:47:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Ok' button of appeared popup window in My Leave  tab
+[DEBUG] 2020-03-25 15:48:21 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 15:48:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 15:48:21 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 15:48:21 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:48:40 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:48:40 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:48:40 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:48:44 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:48:44 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:48:44 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:48:44 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:48:44 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:48:44 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:48:44 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:48:44 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:48:45 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:48:45 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:48:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:48:46 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:48:46 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-25 15:48:47 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-25 15:48:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-25 15:48:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-25 15:48:48 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-25 15:48:48 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-25 15:48:51 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-25 15:48:51 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-25 15:48:51 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:48:51 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:48:51 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:48:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:48:52 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:48:52 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:48:52 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 37
+[DEBUG] 2020-03-25 15:48:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:48:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Cancel' button of 1th record in Table plugin
+[DEBUG] 2020-03-25 15:48:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Ok' button of appeared popup window in My Leave  tab
+[DEBUG] 2020-03-25 15:48:57 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-25 15:48:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:48:57 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:48:57 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:48:58 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 38
+[DEBUG] 2020-03-25 15:48:58 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 15:48:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 15:48:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 15:48:58 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:49:49 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:49:49 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:49:49 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:49:52 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:49:52 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:49:52 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:49:52 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:49:52 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:49:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:49:53 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:49:53 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:49:53 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:49:54 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:49:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:49:54 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:49:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-25 15:49:55 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-25 15:49:56 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-25 15:49:56 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-25 15:49:56 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-25 15:49:56 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-25 15:50:00 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-25 15:50:00 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-25 15:50:00 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:50:00 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:50:00 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:50:00 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:50:00 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:50:00 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:50:01 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 38
+[DEBUG] 2020-03-25 15:50:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:50:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Cancel' button of 1th record in Table plugin
+[DEBUG] 2020-03-25 15:50:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Ok' button of appeared popup window in My Leave  tab
+[DEBUG] 2020-03-25 15:50:01 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-25 15:50:06 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:50:06 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:50:06 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:50:06 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 39
+[DEBUG] 2020-03-25 15:50:06 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 15:50:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 15:50:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 15:50:07 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 15:50:26 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 15:50:26 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 15:50:26 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 15:50:29 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 15:50:29 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 15:50:29 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 15:50:29 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 15:50:29 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 15:50:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 15:50:30 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 15:50:30 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 15:50:30 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 15:50:31 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 15:50:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:50:31 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 15:50:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-25 15:50:32 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-25 15:50:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-25 15:50:32 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-25 15:50:33 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-25 15:50:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-25 15:50:33 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-25 15:50:37 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:50:37 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-25 15:50:37 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-25 15:50:37 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:50:37 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:50:37 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:50:38 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 39
+[DEBUG] 2020-03-25 15:50:38 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:50:38 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Cancel' button of 1th record in Table plugin
+[DEBUG] 2020-03-25 15:50:38 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Ok' button of appeared popup window in My Leave  tab
+[DEBUG] 2020-03-25 15:50:38 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-25 15:50:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Canceled Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 15:50:42 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-25 15:50:42 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-25 15:50:43 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 40
+[DEBUG] 2020-03-25 15:50:43 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 15:50:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 15:50:43 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 15:50:43 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 16:04:34 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 16:04:34 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 16:04:34 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 16:04:38 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 16:04:38 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 16:04:38 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 16:04:38 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 16:04:38 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 16:04:39 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 16:04:39 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 16:04:39 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 16:04:39 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 16:04:40 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-25 16:04:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-25 16:04:40 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-25 17:57:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 17:57:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 17:57:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 17:57:22 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 17:57:22 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 17:57:22 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 17:57:22 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 17:57:22 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 17:57:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 17:57:30 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 17:57:30 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 17:57:33 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 17:57:35 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 17:57:35 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 17:57:35 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 17:57:35 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-25 17:57:35 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 17:57:36 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 17:57:36 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 17:57:36 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-25 17:58:07 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-25 17:58:07 - SentrifugoDev.CommonLip.LogUtil **********************Can not open Leaves dropdown ********************** By.XPath: //span[@id='acc_li_toggle_31']
+[DEBUG] 2020-03-25 17:58:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 17:58:19 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 17:58:19 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 17:58:19 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 17:58:50 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 17:58:50 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 17:58:50 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 17:58:59 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 17:58:59 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 17:58:59 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 17:59:02 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 17:59:02 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 17:59:02 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 17:59:03 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 17:59:03 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 17:59:06 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 17:59:06 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 17:59:06 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 17:59:06 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 17:59:07 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 17:59:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 17:59:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 17:59:07 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-25 17:59:07 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 17:59:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 17:59:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 17:59:07 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-25 17:59:08 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 17:59:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-25 17:59:21 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-25 18:00:00 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-25 18:00:00 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click on 'User Menu' DropDown********************** By.XPath: //a[@class='userprofilepic']
+[DEBUG] 2020-03-25 18:00:12 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 18:00:29 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 18:00:29 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 18:00:29 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 18:00:34 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 18:00:34 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 18:00:34 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 18:00:34 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 18:00:34 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:00:35 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:00:35 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 18:00:35 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:00:35 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:00:35 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 18:00:36 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 18:00:36 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 18:00:36 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-25 18:00:36 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:00:36 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:00:36 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:00:36 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-25 18:00:36 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:00:37 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-25 18:01:03 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-25 18:02:38 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 18:02:38 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 18:02:39 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 18:02:42 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 18:02:42 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 18:02:42 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 18:02:42 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 18:02:43 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:02:48 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:02:48 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 18:02:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:02:50 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:02:51 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 18:02:51 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 18:02:51 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 18:02:51 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-25 18:02:51 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:02:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:02:52 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:02:52 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-25 18:02:52 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:02:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-25 18:03:03 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-25 18:03:03 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT find rame of Leave Request window ********************** By.XPath: //iframe[@id= 'leaverequestCont']
+[DEBUG] 2020-03-25 18:03:18 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 18:03:18 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 18:03:18 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 18:03:19 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 18:03:38 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 18:03:38 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 18:03:38 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 18:03:42 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 18:03:42 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 18:03:42 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 18:03:42 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 18:03:42 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:03:45 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:03:45 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 18:03:45 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:03:45 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:03:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 18:03:46 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 18:03:46 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 18:03:46 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-25 18:03:46 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:03:46 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:03:46 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:03:46 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-25 18:03:47 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:03:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-25 18:03:58 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-25 18:04:17 - SentrifugoDev.CommonLip.LogUtil Selected option Reject in 'Status' dropdown in Leave Request window 
+[DEBUG] 2020-03-25 18:04:22 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Save' button in Leave Request window
+[DEBUG] 2020-03-25 18:04:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 18:04:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 18:04:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 18:04:54 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 18:11:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 18:11:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 18:11:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 18:12:02 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 18:12:02 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 18:12:02 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 18:12:02 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 18:12:02 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:12:03 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:12:03 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 18:12:03 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:12:03 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:12:04 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 18:12:04 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 18:12:04 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 18:12:04 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-25 18:12:04 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:12:04 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:12:04 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:12:04 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-25 18:12:05 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:12:14 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-25 18:12:20 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-25 18:12:22 - SentrifugoDev.CommonLip.LogUtil Selected option Reject in 'Status' dropdown in Leave Request window 
+[DEBUG] 2020-03-25 18:12:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Save' button in Leave Request window
+[DEBUG] 2020-03-25 18:12:29 - SentrifugoDev.CommonLip.LogUtil Go to Appraisals page
+[DEBUG] 2020-03-25 18:13:44 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-25 18:13:44 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT find 'Status' dropdown in Leave Request window ********************** By.XPath: //select[@id= 'leaveactionid']
+[DEBUG] 2020-03-25 18:13:50 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 18:14:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 18:14:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 18:14:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 18:14:23 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 18:14:23 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 18:14:23 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 18:14:23 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 18:14:23 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:14:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:14:24 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 18:14:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:14:25 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:14:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 18:14:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 18:14:25 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 18:14:25 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-25 18:14:25 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:14:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:14:26 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:14:26 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-25 18:14:26 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:14:26 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-25 18:14:42 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-25 18:14:44 - SentrifugoDev.CommonLip.LogUtil Selected option Reject in 'Status' dropdown in Leave Request window 
+[DEBUG] 2020-03-25 18:14:59 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-25 18:14:59 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click on 'Appraisals' button********************** By.XPath: //li[@id='main_parent_149']
+[DEBUG] 2020-03-25 18:15:42 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-25 18:15:42 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click on 'User Menu' DropDown********************** By.XPath: //a[@class='userprofilepic']
+[DEBUG] 2020-03-25 18:15:47 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-25 18:16:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 18:16:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 18:16:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 18:16:07 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 18:16:07 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 18:16:07 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 18:16:07 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 18:16:07 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:16:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:16:08 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 18:16:08 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:16:09 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:16:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 18:16:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 18:16:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 18:16:09 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-25 18:16:09 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:16:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:16:10 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:16:10 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-25 18:16:10 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:16:11 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-25 18:16:22 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-25 18:16:26 - SentrifugoDev.CommonLip.LogUtil Selected option Reject in 'Status' dropdown in Leave Request window 
+[DEBUG] 2020-03-25 18:17:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-25 18:17:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-25 18:17:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-25 18:17:08 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-25 18:17:08 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-25 18:17:08 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-25 18:17:09 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-25 18:17:09 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:17:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:17:09 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-25 18:17:10 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:17:10 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:17:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-25 18:17:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-25 18:17:10 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-25 18:17:11 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-25 18:17:11 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-25 18:17:11 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-25 18:17:11 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-25 18:17:11 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-25 18:17:11 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-25 18:17:12 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-25 18:17:19 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-25 18:17:20 - SentrifugoDev.CommonLip.LogUtil Selected option Reject in 'Status' dropdown in Leave Request window 
+[DEBUG] 2020-03-25 18:17:26 - SentrifugoDev.CommonLip.LogUtil Swiched to default content of page
+[DEBUG] 2020-03-25 18:18:01 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser

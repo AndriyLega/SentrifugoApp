@@ -1,0 +1,1271 @@
+[DEBUG] 2020-03-19 10:01:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 10:01:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 10:01:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 10:01:07 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 10:01:07 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 10:01:07 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 10:01:08 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 10:01:08 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 10:01:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 10:01:09 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 10:01:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 10:01:09 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 10:01:10 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 10:01:10 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 10:01:38 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Job Title
+[DEBUG] 2020-03-19 10:03:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 10:03:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 10:03:59 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 10:04:00 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 10:08:15 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 10:08:15 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 10:08:15 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 10:08:21 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 10:08:21 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 10:08:21 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 10:08:21 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 10:08:21 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 10:08:22 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 10:08:22 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 10:08:22 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 10:08:23 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 10:08:23 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 10:08:23 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 10:08:26 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Email
+[DEBUG] 2020-03-19 10:09:02 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 10:09:03 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 10:09:03 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 10:09:03 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 10:16:48 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 10:16:48 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 10:16:48 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 10:16:53 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 10:16:53 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 10:16:53 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 10:16:53 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 10:16:53 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 10:16:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 10:16:55 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 10:16:55 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 10:16:55 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 10:16:56 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 10:16:56 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 10:17:06 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-19 10:17:06 - SentrifugoDev.CommonLip.LogUtil **********************Can Not find the list of columns name********************** By.XPath: //table[@class='grid']//the ad//tr[1]//th//*[text()='Email']
+[DEBUG] 2020-03-19 10:19:45 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 10:19:45 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 10:19:45 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 10:19:45 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 10:20:18 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 10:20:18 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 10:20:18 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 10:20:23 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 10:20:23 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 10:20:23 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 10:20:23 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 10:20:23 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 10:20:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 10:20:25 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 10:20:25 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 10:20:25 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 10:20:26 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 10:20:26 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 10:20:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 10:20:26 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 10:20:27 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 10:20:27 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 10:20:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 10:20:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 10:20:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 10:20:48 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 10:20:48 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 10:20:48 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 10:20:48 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 10:20:48 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 10:20:49 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 10:20:49 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 10:20:49 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 10:20:49 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 10:20:50 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 10:20:50 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 10:20:53 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Email
+[DEBUG] 2020-03-19 10:22:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 10:22:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 10:22:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 10:22:24 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 10:23:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 10:23:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 10:23:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 10:23:18 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 10:23:18 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 10:23:18 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 10:23:18 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 10:23:18 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 10:23:19 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 10:23:19 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 10:23:19 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 10:23:19 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 10:23:20 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 10:23:20 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 10:23:41 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 10:23:41 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 10:23:41 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 10:23:41 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 10:24:00 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 10:24:00 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 10:24:00 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 10:24:04 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 10:24:04 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 10:24:04 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 10:24:04 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 10:24:04 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 10:24:04 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 10:24:04 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 10:24:05 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 10:24:05 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 10:24:05 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 10:24:05 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:12:59 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Email
+[DEBUG] 2020-03-19 11:13:22 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 11:13:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 11:13:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 11:13:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 11:14:02 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 11:14:02 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 11:14:02 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 11:14:03 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 11:14:03 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 11:14:03 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 11:14:03 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 11:14:04 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 11:14:05 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 11:14:05 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 11:14:05 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:14:10 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Email
+[DEBUG] 2020-03-19 11:14:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 11:14:16 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 11:14:16 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 11:14:16 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 11:14:26 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 11:14:26 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 11:14:26 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 11:14:30 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 11:14:30 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 11:14:30 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 11:14:30 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 11:14:30 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 11:14:34 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 11:14:34 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 11:14:34 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 11:14:35 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 11:14:35 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 11:14:35 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:14:40 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Email
+[DEBUG] 2020-03-19 11:15:58 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 11:15:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 11:15:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 11:15:58 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 11:16:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 11:16:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 11:16:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 11:16:22 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 11:16:22 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 11:16:22 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 11:16:23 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 11:16:23 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 11:16:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 11:16:23 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 11:16:23 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 11:16:24 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 11:16:25 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 11:16:25 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:16:30 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Email
+[DEBUG] 2020-03-19 11:18:43 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-19 11:18:43 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT Find Email column********************** By.XPath: //a[text()='Email']
+[DEBUG] 2020-03-19 11:18:58 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 11:19:03 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 11:19:03 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 11:19:03 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 11:19:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 11:19:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 11:19:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 11:19:21 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 11:19:21 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 11:19:21 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 11:19:21 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 11:19:21 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 11:19:22 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 11:19:22 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 11:19:22 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 11:19:22 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 11:19:23 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 11:19:23 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:19:28 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Email
+[DEBUG] 2020-03-19 11:19:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 11:19:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 11:19:33 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 11:19:34 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 11:19:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 11:19:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 11:19:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 11:19:50 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 11:19:50 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 11:19:50 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 11:19:51 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 11:19:51 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 11:19:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 11:19:55 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 11:19:55 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 11:19:56 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 11:19:56 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 11:19:56 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:20:01 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Email
+[DEBUG] 2020-03-19 11:22:03 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 11:22:03 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 11:22:03 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 11:22:04 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 11:22:30 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 11:22:30 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 11:22:30 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 11:22:33 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 11:22:33 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 11:22:33 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 11:22:33 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 11:22:34 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 11:22:34 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 11:22:34 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 11:22:34 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 11:22:35 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 11:22:35 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 11:22:35 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:22:49 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Role
+[DEBUG] 2020-03-19 11:22:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 11:22:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 11:22:59 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 11:22:59 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 11:23:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 11:23:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 11:23:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 11:23:20 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 11:23:20 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 11:23:20 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 11:23:21 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 11:23:21 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 11:23:22 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 11:23:22 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 11:23:22 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 11:23:22 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 11:23:23 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 11:23:23 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:23:41 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-19 11:23:41 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT Find Role column********************** By.XPath: //a[text()='Role']
+[DEBUG] 2020-03-19 11:24:38 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 11:24:39 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 11:24:39 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 11:24:39 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 11:24:54 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 11:24:54 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 11:24:54 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 11:24:57 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 11:24:57 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 11:24:57 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 11:24:57 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 11:24:58 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 11:24:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 11:24:58 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 11:24:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 11:24:59 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 11:24:59 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 11:24:59 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:28:06 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 11:28:06 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 11:28:06 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 11:28:10 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 11:28:10 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 11:28:10 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 11:28:10 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 11:28:10 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 11:28:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 11:28:10 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 11:28:10 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 11:28:11 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 11:28:12 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 11:28:12 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:28:27 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:28:31 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:28:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:28:39 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:28:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:28:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:28:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:28:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:28:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:29:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:29:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:29:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:30:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:30:02 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:30:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:30:04 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:30:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:30:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:30:25 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:30:27 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:30:28 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:30:29 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:30:32 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:30:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:30:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:30:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:02 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:47 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:51 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:54 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:58 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:31:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:32:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95ca9765-42c7-48bf-b50f-52367e8f57ef)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0036b871-332c-4f6c-9eeb-40a247cad1f2)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f084d27-a50e-4e1c-95d4-b63f2cc3e03f)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37fa14e9-03e2-4a80-96ad-b97580ea068b)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45a2bd41-0ed4-409d-9348-6cd8768ef38a)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d5eda98c-5200-4e25-91e8-1680e3a357cf)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dc7614c9-342a-48c3-aacb-3706b3c46fb4)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 931d6c7e-02e0-4888-92e6-d49ab2c1da1b)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed89e4c7-9cd0-4303-a13c-e4aeb7eb0d4d)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c13a5e53-e030-45ef-b37a-810c3b30357b)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82fd4479-c4ae-4867-b68d-f1d981c3a263)
+[DEBUG] 2020-03-19 11:32:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c28c6fbd-b775-4dcf-8b59-9e8879485158)
+[DEBUG] 2020-03-19 11:32:02 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Role
+[DEBUG] 2020-03-19 11:32:04 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:04 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:18 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:19 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1cc91f1-3ce9-4426-8f0e-06388ac343ab)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67aec61b-f61f-48dc-a578-0130587fc211)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e20be5a2-6c5e-4fb0-8ff8-77f70f422b46)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb83b3ef-0ecf-4bfc-b7f6-ef06581cdec8)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 768fc75d-1280-4393-809b-916d1dfb1de0)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a4c3b212-463b-47c5-bc3e-1dd3a024439e)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 56fc6b04-53cd-4411-a7c6-b0a7764b3e22)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8a0315a-d8e8-4d38-8e41-288840802e8b)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 48b44d48-e972-49fa-a619-9a083f06d362)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4dc262bb-7410-4b65-afe1-63acef61d4c4)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78a592f5-4fe5-4a6c-a6b0-f0b36409f7a1)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66563d6e-2ef2-41cf-b870-8eba8d5618c3)
+[DEBUG] 2020-03-19 11:32:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2093056f-39de-4a68-9ddd-60a9e008e140)
+[DEBUG] 2020-03-19 11:32:44 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 11:32:45 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 11:32:45 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 11:32:45 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 11:35:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 11:35:48 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 11:35:48 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 11:35:52 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 11:35:52 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 11:35:52 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 11:35:52 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 11:35:52 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 11:35:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 11:35:54 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 11:35:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 11:35:55 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 11:35:56 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 11:35:56 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c4a94a81-4e06-434b-842c-a174a3c37222)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 15459de7-b79f-4076-8821-75565eec6e95)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 10241aee-1d48-41cc-8842-9c91e47e8eb2)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 62dfee4d-d0b4-4f5a-a27b-ebdac3b1ca28)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 021afbf5-cac5-4964-b6b5-ef3e752c3c7a)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a418f90a-956b-4231-9021-0e2549dfe829)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 90e28521-7467-4777-9180-502bfd4f3886)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f2cf17cc-ee7a-4b9f-be32-6b203ee0e4e8)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6d5ecead-25a6-451f-ac03-1be3d8dc368e)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = feb95bf6-d5bc-4154-a5d9-a71cadf632d3)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2a23d67d-b932-461d-9e38-eacc83df8b9d)
+[DEBUG] 2020-03-19 11:38:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0c704a21-5c58-4568-9868-4e6a699f3327)
+[DEBUG] 2020-03-19 11:38:27 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Role
+[DEBUG] 2020-03-19 11:38:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = aa3b11b2-9c47-4a58-832f-c2d8351e05c8)
+[DEBUG] 2020-03-19 11:38:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 75f87887-689e-4edf-a100-2c469bf5ab76)
+[DEBUG] 2020-03-19 11:38:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ca709c4d-6fcc-4198-999d-eff6dd847d66)
+[DEBUG] 2020-03-19 11:38:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 94e27640-ff39-4f12-9854-bd9d1e233af1)
+[DEBUG] 2020-03-19 11:38:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 7d6bd6ea-bae4-4db6-9055-aada59bb8e39)
+[DEBUG] 2020-03-19 11:38:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bb54e274-71de-4501-b5ba-589a6739fa6a)
+[DEBUG] 2020-03-19 11:38:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1f89754f-89d5-4ad0-8d0a-beebae684735)
+[DEBUG] 2020-03-19 11:38:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d3cd4676-48fd-42b0-98d2-d9425e642623)
+[DEBUG] 2020-03-19 11:38:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = db031c6c-3605-450e-9475-650a68e483ac)
+[DEBUG] 2020-03-19 11:38:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 18ca88ec-3f56-438f-a5d0-cd353bd2ae53)
+[DEBUG] 2020-03-19 11:38:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3104ef1e-d2b6-4645-82b9-9602aa23c37f)
+[DEBUG] 2020-03-19 11:38:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f7063477-a3ea-4ab8-bd05-149e8e8977c5)
+[DEBUG] 2020-03-19 11:38:46 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 338413db-2192-41f5-9ff1-e151d0260b39)
+[DEBUG] 2020-03-19 13:02:22 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 13:02:22 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 13:02:22 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 13:02:27 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 13:02:27 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 13:02:27 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 13:02:27 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 13:02:28 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 13:02:29 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 13:02:29 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 13:02:29 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 13:02:30 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 13:02:30 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 13:02:30 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 13:03:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a33875c0-2fd4-4da9-9d5c-b99fe923b3f9)
+[DEBUG] 2020-03-19 13:03:05 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c76458a0-e0a5-46e7-845c-93403ccd4810)
+[DEBUG] 2020-03-19 13:03:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bd5d151c-f1ef-497c-b08d-3d4637eb5b6c)
+[DEBUG] 2020-03-19 13:03:07 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 21d7c985-c748-4a3e-a511-04c857b4dc51)
+[DEBUG] 2020-03-19 13:03:08 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 778b2f34-a1e6-4814-9b63-98336295ae05)
+[DEBUG] 2020-03-19 13:03:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e841c870-8167-464f-898f-863505893a6e)
+[DEBUG] 2020-03-19 13:03:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 00502ada-f42f-40c0-ac1f-53d800dd81fd)
+[DEBUG] 2020-03-19 13:03:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1e5fb2e4-51d4-4ede-8c95-d608bdd3e279)
+[DEBUG] 2020-03-19 13:03:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 942f4fa4-648b-429e-b39e-3682f662fbc9)
+[DEBUG] 2020-03-19 13:03:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e10405e5-eef6-4b98-a6fc-7ea96a708585)
+[DEBUG] 2020-03-19 13:03:15 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2ddaa62b-2eb6-4c06-b058-30d3eef61df6)
+[DEBUG] 2020-03-19 13:03:16 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f07213d8-d969-44f9-ba5b-cb1a27f45f06)
+[DEBUG] 2020-03-19 13:06:07 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Role
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b320cb86-73cb-4374-89e3-c02089209e70)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a6920be3-fe50-45bb-a46d-078a9476a739)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2124d47a-2d5b-4e38-877f-aa0b45233afb)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9de0a2f2-8c83-44dd-b320-0d200cc26c60)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 59aa7b7a-46f1-48ad-9698-25ad2a723cde)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b57113bc-4455-49a7-8a1a-e9ae86623019)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 42abb2e3-216b-4bda-89a2-c541f90e4ed0)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 88130178-d55d-4540-a105-815b6dfa336f)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = de1dce30-9590-4969-a393-f82448c99938)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9b8497fa-6d7e-4653-9cc0-33f4ad7ca532)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = de8a5b50-ea39-4b84-84b2-221b4cb8b0c5)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f2a8f888-e91e-4b08-922c-c143740cc01d)
+[DEBUG] 2020-03-19 13:07:17 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed88abb2-abf5-4f4b-bb1b-7689a09a79a6)
+[DEBUG] 2020-03-19 13:08:27 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 13:08:27 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 13:08:27 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 13:08:27 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 13:10:26 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 13:10:27 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 13:10:27 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 13:10:31 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 13:10:31 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 13:10:31 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 13:10:31 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 13:10:31 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 13:10:32 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 13:10:32 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 13:10:32 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 13:10:32 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9ca40d7c-622f-464f-9c71-fffbda71fb79)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fed2bf1d-5288-4d51-8d19-73c65e43be69)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 87609970-9718-4089-8ee8-dba8601fecc2)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c4302882-5bfe-4240-a9ad-7fb2aac45a20)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3c184460-4fba-4e6f-bf5c-e5f05e769eb3)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = db38b353-6b9a-4bf8-85fe-5e06e18501a3)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 34469f7d-43f8-4202-9b9b-1c54f4764a61)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 234c2c1a-7876-458f-911d-2d17e9fbc2c1)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 80025e4d-825a-4be3-82ec-93552a562157)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3904a314-3ec0-46d4-b1b7-a91d09decbf5)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1089bff5-37db-42d9-b3fd-507333e9adde)
+[DEBUG] 2020-03-19 13:10:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2e0c31a3-8ea6-4151-bed7-521c63521b4f)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Role
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 818c4f40-cf03-4d6e-8c5e-f7a813555e0b)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6497f0fb-09c6-479a-b0c0-f764e2acc87f)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b43ec3e1-0ac4-4261-9047-34972b761a57)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 683ba390-c43a-47f3-a000-b8541363da4d)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c121379f-adb5-4dad-8dce-54fafca81b03)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3d8af4a5-c01d-4abb-a6bb-800eeab05fad)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a25a1a77-0ce7-4457-8ce2-5de42b2f5030)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6923f236-bac8-44e5-85d2-c7de4940c27d)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = cdc397f3-2b3c-4c52-9992-249191ee6cf9)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 105da5f6-a972-4624-b09a-641d1b8a53fe)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 886c4f67-48ff-45f3-bd7f-c06e547b14cf)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8ee65a24-5e6d-448b-a1a9-b354d2a4896a)
+[DEBUG] 2020-03-19 13:10:35 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 537b2176-aadd-498c-bec6-40e24ce5b052)
+[DEBUG] 2020-03-19 13:10:37 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 13:10:37 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 13:10:37 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 13:10:37 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 13:38:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 13:38:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 13:38:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 13:38:32 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 13:38:32 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 13:38:32 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 13:38:32 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 13:38:32 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 13:38:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 13:38:33 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 13:38:33 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 13:38:33 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f802e934-78cb-4139-9421-be3f9b0bc6b7)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1dd6f713-8810-487a-bd59-e5cbb43b1ba7)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4c6088fd-0dca-4f00-a30c-779049ae3cab)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4041047b-9457-4ea0-99ce-86d522bba199)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1e09c3fa-cffb-4645-9825-19ff824d11f7)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c2b2c462-397d-4e01-a30c-e0d844e3841b)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 7d042ffa-8d48-4669-bc69-ba88ae86c4a2)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 246595df-70d6-435d-a56a-416d2b3f503d)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2218e18f-1e8e-42e7-be69-8d37f2ac1d26)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d51cbb35-14c4-4911-85f3-a9ee16140440)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5422222c-ea13-41ef-8229-4e74c5e94287)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 51f1decf-25c6-42da-b553-aed89a509847)
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-19 13:38:34 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Role
+[DEBUG] 2020-03-19 13:38:35 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: Role
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Role
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 789d2008-53c0-40e8-b1b5-a00a252e6a3f)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c379516e-1125-4001-93d0-657c975a9073)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 00ce767a-c2c5-45d7-a32d-5abb512853e2)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = add2711e-40a3-49fb-8c68-cb61b9a3bf4d)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5289d454-069f-488e-a23e-6daf212e4009)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 92224d98-9e45-4994-b2fa-c550a3515b93)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1e698646-682d-4d05-a74a-23cdb2989208)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2717fdd9-f86a-4549-b552-0ab0fa6dcc63)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 995ecb62-49f5-43e9-b4ed-12b0654e0b63)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5dbff275-c617-45f8-815d-4d50353809cf)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 633d1be9-7bae-497b-8d40-7d2be5d419f0)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ce6fc3ba-241d-4f82-9bb4-9ea51476117c)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 352e8456-2689-4c7f-bb5e-b04eeea0ed41)
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-19 13:38:36 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Role
+[DEBUG] 2020-03-19 13:38:37 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: Role
+[DEBUG] 2020-03-19 13:38:37 - SentrifugoDev.CommonLip.LogUtil Checked if sort logic of records in the table by column Role works correctly 
+[DEBUG] 2020-03-19 13:38:37 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 13:38:38 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 13:38:38 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 13:38:38 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 13:39:14 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 13:39:14 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 13:39:14 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 13:39:18 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 13:39:18 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 13:39:18 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 13:39:18 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 13:39:18 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 13:39:18 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 13:39:18 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 13:39:18 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 13:39:19 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 13:39:19 - SentrifugoDev.CommonLip.LogUtil Go to HR page
+[DEBUG] 2020-03-19 13:39:19 - SentrifugoDev.CommonLip.LogUtil Selected option by 200in 'Records per page' dropdown
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d98d5c21-4d99-468f-ad4c-84ae67b05bb2)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 612ee3f6-42b3-4555-850e-e2fa2afc2251)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 04227d3b-58af-4222-b223-5ce4886edd24)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f4c6bc97-2a73-429c-a5c1-ef2e4f3cdc64)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 497d66db-5c60-4756-9f17-0d8870ef7824)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ff198a71-9832-47c8-8454-e7f6b4a1df9c)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 19920d26-d7ac-4493-b863-528f7e9f0997)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 66b70cd9-b727-460d-8b16-d081bff58472)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 381d822a-b5cd-4dc3-8687-d4c77dee971e)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1cdc725a-f390-4566-a9aa-6ea99547aae8)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 22e6c10a-8d54-4a12-af75-a34549015b03)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 115ce0d9-fa43-4e02-8f78-ba2dc59c5006)
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-19 13:39:20 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Employment Status
+[DEBUG] 2020-03-19 13:39:21 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: Employment Status
+[DEBUG] 2020-03-19 13:39:21 - SentrifugoDev.CommonLip.LogUtil Sorted records by data in column Employment Status
+[DEBUG] 2020-03-19 13:39:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9d852eb1-2221-419a-9c7a-9fa25e78e20f)
+[DEBUG] 2020-03-19 13:39:21 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 7ed3217a-7d0c-4599-931e-383d6f237e63)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = cc7aad06-4be3-4c5b-bf9f-d0561c56dfdb)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3fec3176-c972-4ba8-939b-dd7546916d0b)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2576fc27-7b1e-4b86-8ac1-e87c52f1b039)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8fe05a5f-f129-4813-b729-4aa8b4cf0fef)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5fb5b390-2df5-4334-9d7a-f4891ce99016)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1e15e1c2-df4c-4cdc-bd3c-9c5e018ab089)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8433e27a-6006-4a6a-a6c3-9b7e50a4c7f3)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 09cb020e-8d41-4ce5-b9b2-5c905bc60954)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8af7f42a-6961-4bdb-b883-9a5f43dded9e)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9d1f4a5c-d808-463c-886b-830251cffda9)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 83fc2a26-d958-4c72-a915-76c7b7ba7814)
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-19 13:39:22 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Employment Status
+[DEBUG] 2020-03-19 13:39:23 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: Employment Status
+[DEBUG] 2020-03-19 13:39:23 - SentrifugoDev.CommonLip.LogUtil Checked if sort logic of records in the table by column Employment Status works correctly 
+[DEBUG] 2020-03-19 13:39:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 13:39:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 13:39:23 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 13:39:24 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 14:02:34 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 14:02:34 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 14:02:34 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 14:02:38 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 14:02:38 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 14:02:38 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 14:02:38 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 14:02:38 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 14:02:39 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 14:02:39 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 14:02:39 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 14:02:40 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 14:02:40 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-19 14:44:30 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 14:44:30 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 14:44:30 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 14:44:34 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 14:44:34 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 14:44:34 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 14:44:34 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 14:44:34 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 14:44:35 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 14:44:35 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 14:44:35 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 14:44:36 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 14:44:36 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-19 14:44:36 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-19 14:45:09 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-19 14:45:21 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-19 14:45:21 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT find filter button********************** By.XPath: By.XPath: //div[@id='filter_all']//label
+[DEBUG] 2020-03-19 14:45:39 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 14:45:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 14:45:40 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 14:45:42 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 14:50:44 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 14:50:44 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 14:50:44 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 14:50:50 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 14:50:50 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 14:50:50 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 14:50:51 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 14:50:51 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 14:50:51 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 14:50:51 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 14:50:51 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 14:50:52 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 14:50:52 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-19 14:50:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-19 14:51:06 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-19 14:51:16 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-19 14:51:16 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT find filter button********************** By.XPath: By.XPath: //div[@id='filter_all']//label
+[DEBUG] 2020-03-19 14:51:39 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 14:51:39 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 14:51:39 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 14:51:39 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 14:54:05 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 14:54:05 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 14:54:05 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 14:54:11 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 14:54:11 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 14:54:11 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 14:54:11 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 14:54:11 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 14:54:12 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 14:54:12 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 14:54:12 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 14:54:12 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 14:54:13 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-19 14:54:13 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-19 14:54:23 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-19 14:54:23 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click 'View' button of 5th record in Table plugin********************** By.XPath: //tbody//tr[5]By.XPath: //div[@class='grid-action-align']/a[@title='View']
+[DEBUG] 2020-03-19 14:55:00 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 14:55:00 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 14:55:00 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 14:55:00 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 15:02:20 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 15:02:20 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 15:02:20 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 15:02:23 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 15:02:23 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 15:02:23 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 15:02:24 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 15:02:24 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 15:02:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 15:02:24 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 15:02:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 15:02:25 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 15:02:25 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-19 15:02:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-19 15:02:25 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-19 15:02:25 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-19 15:02:25 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-19 15:03:02 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 15:03:02 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 15:03:03 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 15:03:03 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 15:03:20 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 15:03:20 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 15:03:20 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 15:03:23 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 15:03:23 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 15:03:23 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 15:03:23 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 15:03:23 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 15:03:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 15:03:24 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 15:03:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 15:03:24 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 15:03:25 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-19 15:03:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-19 15:03:39 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-19 15:03:39 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 32
+[DEBUG] 2020-03-19 15:03:39 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 32
+[DEBUG] 2020-03-19 15:03:43 - SentrifugoDev.CommonLip.LogUtil Clicked on 'View' button of 5th record in Table plugin
+[DEBUG] 2020-03-19 15:03:50 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 15:03:50 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 15:03:50 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 15:03:50 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-19 15:04:31 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-19 15:04:31 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-19 15:04:31 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-19 15:04:34 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-19 15:04:34 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-19 15:04:34 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-19 15:04:34 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-19 15:04:34 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-19 15:04:35 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-19 15:04:35 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-19 15:04:35 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-19 15:04:35 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-19 15:04:36 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-19 15:04:36 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-19 15:04:51 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-19 15:04:54 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-19 15:05:06 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 20
+[DEBUG] 2020-03-19 15:05:26 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-19 15:05:40 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 32
+[DEBUG] 2020-03-19 15:05:42 - SentrifugoDev.CommonLip.LogUtil Count of rows in the tabel is = 32
+[DEBUG] 2020-03-19 15:05:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'View' button of 5th record in Table plugin
+[DEBUG] 2020-03-19 15:05:56 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-19 15:05:57 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-19 15:05:57 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-19 15:05:57 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser

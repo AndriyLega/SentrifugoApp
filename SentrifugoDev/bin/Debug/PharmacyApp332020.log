@@ -1,0 +1,1341 @@
+[DEBUG] 2020-03-03 11:03:23 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 11:03:23 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 11:03:27 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 11:03:28 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 11:03:28 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 11:03:28 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 11:03:28 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 11:03:29 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 11:03:29 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 11:03:29 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 11:03:29 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 11:03:29 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 11:03:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:03:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:03:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:03:31 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: test1
+[DEBUG] 2020-03-03 11:03:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:03:31 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Leave Type' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 11:03:33 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 11:04:25 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 11:04:25 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 11:04:30 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 11:04:30 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 11:04:30 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 11:04:30 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 11:04:30 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 11:04:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 11:04:31 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 11:04:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 11:04:32 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 11:04:32 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 11:04:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:04:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:04:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:04:34 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: test1
+[DEBUG] 2020-03-03 11:04:34 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:04:34 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Leave Type' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 11:07:17 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 11:08:07 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 11:08:07 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 11:08:11 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 11:08:11 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 11:08:11 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 11:08:11 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 11:08:11 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 11:08:12 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 11:08:12 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 11:08:12 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 11:08:12 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 11:08:13 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 11:08:13 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:08:13 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:08:13 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:08:16 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: test1
+[DEBUG] 2020-03-03 11:08:18 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:08:23 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Leave Type' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 11:08:29 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Cancel' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:08:48 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 11:08:49 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 11:08:50 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 11:08:53 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 11:10:46 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 11:10:46 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 11:10:51 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 11:10:51 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 11:10:51 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 11:10:51 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 11:10:51 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 11:10:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 11:10:54 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 11:10:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 11:10:54 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 11:10:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 11:10:55 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:10:55 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:10:55 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:10:56 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: test1
+[DEBUG] 2020-03-03 11:10:56 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:10:56 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Leave Type' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 11:10:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:10:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 11:10:57 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 11:10:57 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 11:10:57 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 11:11:08 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 11:11:08 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 11:11:12 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 11:11:12 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 11:11:12 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 11:11:12 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 11:11:12 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 11:11:12 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 11:11:12 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 11:11:12 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 11:11:13 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 11:11:13 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 11:11:13 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:11:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:11:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:11:15 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: test1
+[DEBUG] 2020-03-03 11:11:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:11:15 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Leave Type' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 11:11:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:11:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 11:11:15 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 11:11:15 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 11:11:16 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 11:11:24 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 11:11:24 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 11:11:30 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 11:11:30 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 11:11:30 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 11:11:30 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 11:11:30 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 11:11:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 11:11:31 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 11:11:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 11:11:32 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 11:11:32 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 11:11:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Previous Month' button of Calendar in Leave Request tab
+[DEBUG] 2020-03-03 11:11:33 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 2th till 5th
+[DEBUG] 2020-03-03 11:11:33 - SentrifugoDev.CommonLip.LogUtil Getting text from Warnind popup message in Leave Request tab
+[DEBUG] 2020-03-03 11:11:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'OK' button of Warning popup in Leave Request tab
+[DEBUG] 2020-03-03 11:11:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 11:11:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 11:11:33 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 11:11:33 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 11:11:39 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 11:11:39 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 11:11:39 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 11:11:39 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 11:11:39 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 11:11:39 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 11:11:39 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 11:11:39 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 11:11:40 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 11:11:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 11:11:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:11:41 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:11:41 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 11:11:41 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: test1
+[DEBUG] 2020-03-03 11:11:41 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:11:41 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Leave Type' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 11:11:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 11:11:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 11:11:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 11:11:43 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 11:11:43 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:32:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 13:32:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 13:32:57 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:32:57 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:32:57 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:32:57 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:32:57 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:32:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:32:58 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:32:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:32:58 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:33:00 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:33:10 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-03 13:33:10 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click on 'Leave Type' DropDown********************** By.XPath: //div[@id='s2id_leaveday']
+[DEBUG] 2020-03-03 13:34:36 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 13:34:36 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 13:34:44 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:34:44 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:34:44 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:34:44 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:34:44 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:34:45 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:34:45 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:34:45 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:34:45 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:34:45 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:34:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:34:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:34:46 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:34:48 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:35:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 13:35:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 13:35:49 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:35:49 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:35:49 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:35:49 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:35:49 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:35:50 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:35:50 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:35:50 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:35:51 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:35:51 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:35:51 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:35:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:35:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:35:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:35:52 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Reason' text area  in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:35:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:35:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:35:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:35:53 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:35:53 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:48:44 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 13:48:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 13:48:49 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:48:49 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:48:49 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:48:49 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:48:49 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:48:51 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:48:51 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:48:51 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:48:51 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:48:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:48:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Previous Month' button of Calendar in Leave Request tab
+[DEBUG] 2020-03-03 13:48:53 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 2th till 5th
+[DEBUG] 2020-03-03 13:48:53 - SentrifugoDev.CommonLip.LogUtil Getting text from Warnind popup message in Leave Request tab
+[DEBUG] 2020-03-03 13:48:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'OK' button of Warning popup in Leave Request tab
+[DEBUG] 2020-03-03 13:48:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:48:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:48:53 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:48:53 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:48:57 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:48:57 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:48:57 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:48:57 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:48:57 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:48:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:48:58 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:48:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:48:58 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:48:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:48:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:48:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:48:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:49:00 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: test1
+[DEBUG] 2020-03-03 13:49:00 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:49:00 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Leave Type' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:49:00 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:49:00 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:49:01 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:49:01 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:49:01 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:49:05 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:49:05 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:49:05 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:49:05 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:49:05 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:49:05 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:49:05 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:49:05 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:49:06 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:49:06 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:49:06 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:49:07 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:49:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:49:07 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:49:07 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Reason' text area  in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:49:07 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:49:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:49:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:49:08 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:49:08 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:49:12 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:49:12 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:49:12 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:49:12 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:49:12 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:49:12 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:49:12 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:49:12 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:49:13 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:49:13 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:49:13 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:49:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:49:14 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:49:14 - SentrifugoDev.CommonLip.LogUtil Cleared 'From' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:49:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:49:14 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:49:15 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:49:19 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:49:19 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:49:19 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:49:19 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:49:20 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:49:20 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:49:20 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:49:20 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:49:20 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:49:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:49:21 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:49:22 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:49:22 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:49:22 - SentrifugoDev.CommonLip.LogUtil Cleared 'To' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:49:24 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:49:57 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 13:49:57 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 13:50:01 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:50:01 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:50:01 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:50:02 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:50:02 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:50:02 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:50:02 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:50:02 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:50:03 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:50:03 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:50:03 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:50:04 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:50:04 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:50:04 - SentrifugoDev.CommonLip.LogUtil Cleared 'From' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:50:04 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:50:04 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:52:05 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:53:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 13:53:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 13:53:32 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:53:32 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:53:32 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:53:32 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:53:32 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:53:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:53:33 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:53:33 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:53:34 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:53:34 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:53:34 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:53:35 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:53:35 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:53:35 - SentrifugoDev.CommonLip.LogUtil Cleared 'From' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:53:35 - SentrifugoDev.CommonLip.LogUtil Clicked on 'To' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:53:37 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:54:39 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 13:54:39 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 13:54:42 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:54:42 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:54:42 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:54:42 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:54:42 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:54:45 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:54:45 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:54:45 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:54:46 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:54:46 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:54:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:54:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:54:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:54:47 - SentrifugoDev.CommonLip.LogUtil Cleared 'From' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:54:47 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:54:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:54:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:54:48 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:54:48 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:54:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:54:48 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:55:32 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 13:55:32 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 13:55:36 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:55:36 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:55:36 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:55:36 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:55:36 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:55:37 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:55:37 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:55:37 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:55:37 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:55:37 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:55:37 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:55:38 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:55:38 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:55:38 - SentrifugoDev.CommonLip.LogUtil Cleared 'From' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:55:38 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:55:38 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:55:38 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:55:38 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:55:38 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:55:38 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:55:48 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 13:55:48 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 13:55:51 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:55:51 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:55:51 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:55:51 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:55:52 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:55:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:55:52 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:55:52 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:55:53 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:55:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:55:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Previous Month' button of Calendar in Leave Request tab
+[DEBUG] 2020-03-03 13:55:54 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 2th till 5th
+[DEBUG] 2020-03-03 13:55:54 - SentrifugoDev.CommonLip.LogUtil Getting text from Warnind popup message in Leave Request tab
+[DEBUG] 2020-03-03 13:55:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'OK' button of Warning popup in Leave Request tab
+[DEBUG] 2020-03-03 13:55:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:55:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:55:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:55:54 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:55:59 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:55:59 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:55:59 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:55:59 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:55:59 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:55:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:55:59 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:55:59 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:56:00 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:56:00 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:56:00 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:56:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:56:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:56:02 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: test1
+[DEBUG] 2020-03-03 13:56:02 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:56:02 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Leave Type' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:56:02 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:56:02 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:56:02 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:56:02 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:56:03 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:56:06 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:56:06 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:56:06 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:56:06 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:56:06 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:56:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:56:07 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:56:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:56:07 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:56:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:56:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:56:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:56:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:56:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:56:09 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'Reason' text area  in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:56:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:56:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:56:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:56:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:56:10 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:56:13 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:56:13 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:56:13 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:56:14 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:56:14 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:56:14 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:56:14 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:56:14 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:56:15 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:56:15 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:56:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:56:16 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:56:16 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:56:16 - SentrifugoDev.CommonLip.LogUtil Cleared 'From' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:56:16 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:56:16 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:56:16 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:56:16 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:56:16 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:56:16 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 13:56:20 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 13:56:20 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 13:56:20 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 13:56:20 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 13:56:20 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 13:56:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 13:56:21 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 13:56:21 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 13:56:21 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 13:56:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 13:56:21 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 13:56:22 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 13:56:22 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 13:56:22 - SentrifugoDev.CommonLip.LogUtil Cleared 'To' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:56:22 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'To' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 13:56:22 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 13:56:22 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 13:56:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 13:56:23 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 13:56:23 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:07:38 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:07:38 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:07:41 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:07:41 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:07:41 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:07:41 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:07:41 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:07:42 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:07:42 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:07:42 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:07:42 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:07:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:07:43 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 14:07:43 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:07:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:07:54 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-03 14:07:54 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click on 'From' field********************** By.XPath: //span[@id='errors-from_date']
+[DEBUG] 2020-03-03 14:07:55 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:08:15 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:08:15 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:08:19 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:08:19 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:08:19 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:08:19 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:08:20 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:08:20 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:08:20 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:08:20 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:08:21 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:08:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:08:21 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 14:08:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:08:50 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:10:08 - SentrifugoDev.CommonLip.LogUtil Selected the date 10in 'From' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:11:24 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:11:24 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:11:29 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:11:29 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:11:29 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:11:29 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:11:29 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:11:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:11:30 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:11:30 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:11:30 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:11:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:11:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 14:11:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:11:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:11:31 - SentrifugoDev.CommonLip.LogUtil Selected the date 2in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:11:31 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'To' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:11:42 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-03 14:11:42 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT get text from error message for 'To' field  in the Create: Leave request Form********************** By.XPath: //span[@id='errors-to_date']
+[DEBUG] 2020-03-03 14:11:43 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:12:22 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:12:22 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:12:27 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:12:27 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:12:27 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:12:27 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:12:27 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:12:28 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:12:28 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:12:28 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:12:28 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:12:29 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:12:29 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 14:12:43 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:12:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:12:45 - SentrifugoDev.CommonLip.LogUtil Selected the date 2in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:14:10 - SentrifugoDev.CommonLip.LogUtil Selected the date 2in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:14:25 - SentrifugoDev.CommonLip.LogUtil Selected the date 1in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:14:28 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'To' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:14:32 - SentrifugoDev.CommonLip.LogUtil Selected the date 12in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:14:34 - SentrifugoDev.CommonLip.LogUtil Selected the date 15in 'From' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:14:55 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:14:58 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:15:37 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 14:15:37 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 14:15:37 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 14:15:38 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:15:50 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:15:51 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:15:55 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:15:55 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:15:55 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:15:55 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:15:55 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:15:56 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:15:56 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:15:56 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:15:56 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:15:57 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:15:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 14:15:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:15:57 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:15:57 - SentrifugoDev.CommonLip.LogUtil Selected the date 1in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:15:57 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'To' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:15:58 - SentrifugoDev.CommonLip.LogUtil Selected the date 12in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:15:59 - SentrifugoDev.CommonLip.LogUtil Selected the date 15in 'From' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:15:59 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:15:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:15:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 14:15:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 14:15:59 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 14:16:00 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:16:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:16:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:16:38 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:16:38 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:16:38 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:16:38 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:16:38 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:16:39 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:16:39 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:16:39 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:16:39 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:16:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:16:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 14:16:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:16:41 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:16:41 - SentrifugoDev.CommonLip.LogUtil Selected the date 1in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:16:41 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'To' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:16:41 - SentrifugoDev.CommonLip.LogUtil Selected the date 12in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:16:42 - SentrifugoDev.CommonLip.LogUtil Selected the date 15in 'From' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:16:42 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:16:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:16:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 14:16:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 14:16:43 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 14:16:43 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:17:25 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:17:25 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:17:29 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:17:29 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:17:29 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:17:29 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:17:29 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:17:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:17:30 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:17:30 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:17:30 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:17:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:17:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 14:17:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:17:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:17:31 - SentrifugoDev.CommonLip.LogUtil Selected the date 1in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:17:31 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'To' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:17:32 - SentrifugoDev.CommonLip.LogUtil Selected the date 12in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:17:32 - SentrifugoDev.CommonLip.LogUtil Selected the date 15in 'From' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:17:32 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:17:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:17:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 14:17:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 14:17:33 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 14:17:33 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:26:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:26:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:26:21 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:26:21 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:26:21 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:26:21 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:26:21 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:26:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:26:25 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:26:25 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:26:27 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:26:27 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:26:28 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 14:26:28 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:26:29 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:26:29 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:26:29 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:26:48 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:26:48 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:26:52 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:26:52 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:26:52 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:26:52 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:26:52 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:26:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:26:53 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:26:53 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:26:53 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:26:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:26:55 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 14:26:55 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:26:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:26:55 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:26:55 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:26:57 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:27:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:27:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:27:50 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:27:50 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:27:50 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:27:50 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:27:50 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:27:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:27:52 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:27:52 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:27:52 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:27:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:27:53 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 14:27:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:27:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:27:54 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:28:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:29:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 14:29:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 14:29:47 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 14:29:48 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:34:49 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:34:50 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:34:54 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:34:54 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:34:54 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:34:54 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:34:54 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:34:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:34:55 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:34:55 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:34:55 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:34:56 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:34:57 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 14:34:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:34:57 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:34:57 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:34:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:34:58 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 14:35:00 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:35:20 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:35:20 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:35:23 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:35:23 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:35:23 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:35:23 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:35:24 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:35:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:35:24 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:35:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:35:24 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:35:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:35:26 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 14:35:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:35:26 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:35:26 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:35:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:35:30 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 14:35:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:35:31 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 5th till 6th
+[DEBUG] 2020-03-03 14:35:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:35:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:35:31 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:35:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:35:32 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:35:44 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:37:08 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:37:08 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:37:38 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:37:39 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:37:43 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:37:43 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:37:43 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:37:43 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:37:44 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:37:44 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:37:44 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:37:44 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:37:45 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:37:45 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:37:46 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 14:37:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:37:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:37:47 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:37:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:37:50 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 14:37:51 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:37:51 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 5th till 6th
+[DEBUG] 2020-03-03 14:37:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:37:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:37:52 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:37:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:37:52 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:37:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:37:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 14:37:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 14:37:53 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 14:37:53 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:58:12 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:58:12 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:58:17 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:58:17 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:58:17 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:58:17 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:58:17 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:58:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:58:24 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:58:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:58:25 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:58:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:58:26 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 14:58:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:58:26 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:58:26 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:58:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:58:29 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 14:58:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:58:31 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 5th till 6th
+[DEBUG] 2020-03-03 14:58:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:58:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:58:31 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:58:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:58:31 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:58:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:58:32 - SentrifugoDev.CommonLip.LogUtil Clicked on requested leave item on Calendar plugine
+[DEBUG] 2020-03-03 14:58:42 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-03 14:58:42 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click 'Save' button in Requested Leave form window********************** By.XPath: //div[@id='s2id_leaveactionid']
+[DEBUG] 2020-03-03 14:58:44 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 14:59:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 14:59:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 14:59:37 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 14:59:37 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 14:59:37 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 14:59:37 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 14:59:37 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 14:59:38 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 14:59:38 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 14:59:38 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 14:59:38 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 14:59:39 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:59:39 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 14:59:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:59:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:59:40 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:59:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:59:44 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 14:59:44 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 14:59:45 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 5th till 6th
+[DEBUG] 2020-03-03 14:59:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 14:59:46 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 14:59:46 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 14:59:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:59:46 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 14:59:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 14:59:46 - SentrifugoDev.CommonLip.LogUtil Clicked on requested leave item on Calendar plugine
+[DEBUG] 2020-03-03 15:00:16 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-03 15:00:16 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click 'Save' button in Requested Leave form window********************** By.XPath: //div[@id='s2id_leaveactionid']
+[DEBUG] 2020-03-03 15:03:18 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 15:03:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 15:03:23 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 15:03:23 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 15:03:23 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 15:03:23 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 15:03:23 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 15:03:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 15:03:23 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 15:03:23 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 15:03:24 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 15:03:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 15:03:25 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 15:03:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 15:03:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 15:03:25 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 15:03:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 15:03:29 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 15:03:29 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 15:03:30 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 5th till 6th
+[DEBUG] 2020-03-03 15:03:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 15:03:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 15:03:31 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 15:03:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 15:03:31 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 15:03:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 15:03:32 - SentrifugoDev.CommonLip.LogUtil Clicked on requested leave item on Calendar plugine
+[DEBUG] 2020-03-03 15:03:42 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-03 15:03:42 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click 'Save' button in Requested Leave form window********************** By.XPath: //input[@name='submit' and @value='Save']
+[DEBUG] 2020-03-03 15:03:43 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 15:04:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 15:04:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 15:04:21 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 15:04:21 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 15:04:21 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 15:04:21 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 15:04:21 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 15:04:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 15:04:23 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 15:04:23 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 15:04:24 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 15:04:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 15:04:25 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 15:04:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 15:04:26 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 15:04:26 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 15:04:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 15:04:27 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 15:05:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 15:05:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 15:05:07 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 15:05:07 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 15:05:07 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 15:05:07 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 15:05:08 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 15:05:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 15:05:08 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 15:05:08 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 15:05:09 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 15:05:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 15:05:10 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 15:05:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 15:05:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 15:05:10 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 15:05:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 15:05:15 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 15:05:15 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 15:05:16 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 5th till 6th
+[DEBUG] 2020-03-03 15:05:17 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 15:05:17 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 15:05:17 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 15:05:17 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 15:05:17 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 15:05:17 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 15:05:17 - SentrifugoDev.CommonLip.LogUtil Clicked on requested leave item on Calendar plugine
+[DEBUG] 2020-03-03 15:05:38 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-03 15:05:38 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click 'Save' button in Requested Leave form window********************** By.XPath: //input[@name='submit' and @value='Save']
+[DEBUG] 2020-03-03 15:07:42 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:02:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:02:19 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:02:23 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:02:23 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:02:23 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:02:23 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:02:24 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:02:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:02:25 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:02:25 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:02:26 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:02:26 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:02:27 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 16:02:38 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-03 16:02:38 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click on 'Leave Type' DropDown********************** By.XPath: //div[@id='s2id_leavetypeid']
+[DEBUG] 2020-03-03 16:02:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 16:02:57 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 16:02:57 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 16:02:57 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:03:12 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:03:12 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:03:16 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:03:16 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:03:16 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:03:16 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:03:16 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:03:17 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:03:17 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:03:17 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:03:17 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:03:17 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:03:18 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 16:03:18 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:03:19 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:03:19 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:03:19 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:03:22 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 16:03:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:03:23 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 5th till 6th
+[DEBUG] 2020-03-03 16:03:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:03:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:03:24 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:03:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:03:24 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 16:03:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:03:25 - SentrifugoDev.CommonLip.LogUtil Clicked on requested leave item on Calendar plugine
+[DEBUG] 2020-03-03 16:07:00 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:07:01 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:07:05 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:07:05 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:07:05 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:07:05 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:07:05 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:07:06 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:07:06 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:07:06 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:07:06 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:07:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:07:08 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 16:07:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:07:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:07:08 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:07:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:07:09 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 16:07:11 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:07:50 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:07:50 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:07:53 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:07:53 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:07:53 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:07:53 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:07:53 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:07:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:07:54 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:07:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:07:54 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:07:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:07:56 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 16:07:56 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:07:56 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:07:56 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:07:56 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:07:56 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 16:07:59 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:08:42 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:08:42 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:08:46 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:08:46 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:08:46 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:08:46 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:08:46 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:08:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:08:47 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:08:47 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:08:47 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:08:48 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:08:49 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 16:08:49 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:08:49 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:08:49 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:08:49 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:08:53 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 16:08:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:08:54 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 5th till 6th
+[DEBUG] 2020-03-03 16:08:55 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:08:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:08:55 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:08:55 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:08:55 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 16:08:56 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:08:56 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 16:08:56 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 16:08:56 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 16:08:56 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:09:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:09:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:09:05 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:09:05 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:09:05 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:09:05 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:09:06 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:09:06 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:09:06 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:09:06 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:09:06 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:09:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:09:08 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 16:09:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:09:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:09:08 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:09:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:09:09 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 16:09:11 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:23:26 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:23:26 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:23:29 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:23:29 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:23:29 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:23:29 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:23:30 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:23:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:23:31 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:23:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:23:32 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:23:32 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:23:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Previous Month' button of Calendar in Leave Request tab
+[DEBUG] 2020-03-03 16:23:33 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 7th till 8th
+[DEBUG] 2020-03-03 16:23:33 - SentrifugoDev.CommonLip.LogUtil Getting text from Warnind popup message in Leave Request tab
+[DEBUG] 2020-03-03 16:23:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'OK' button of Warning popup in Leave Request tab
+[DEBUG] 2020-03-03 16:23:33 - SentrifugoDev.CommonLip.LogUtil Waiting till the new password is sending 
+[DEBUG] 2020-03-03 16:23:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 16:23:34 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 16:23:34 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 16:23:34 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:24:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:24:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:24:07 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:24:07 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:24:07 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:24:07 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:24:07 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:24:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:24:07 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:24:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:24:08 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:24:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:24:09 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 4th till 7th
+[DEBUG] 2020-03-03 16:24:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:24:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:24:10 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:24:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:24:13 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 16:24:14 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:24:14 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 5th till 6th
+[DEBUG] 2020-03-03 16:24:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:24:15 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:24:15 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:24:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:24:15 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 16:24:16 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:24:16 - SentrifugoDev.CommonLip.LogUtil Waiting till the new password is sending 
+[DEBUG] 2020-03-03 16:24:16 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 16:24:16 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 16:24:16 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 16:24:16 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:24:27 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:24:27 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:24:30 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:24:30 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:24:30 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:24:30 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:24:31 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:24:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:24:31 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:24:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:24:31 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:24:32 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:24:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Previous Month' button of Calendar in Leave Request tab
+[DEBUG] 2020-03-03 16:24:33 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 7th till 8th
+[DEBUG] 2020-03-03 16:24:33 - SentrifugoDev.CommonLip.LogUtil Getting text from Warnind popup message in Leave Request tab
+[DEBUG] 2020-03-03 16:24:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'OK' button of Warning popup in Leave Request tab
+[DEBUG] 2020-03-03 16:24:33 - SentrifugoDev.CommonLip.LogUtil Waiting till the new password is sending 
+[DEBUG] 2020-03-03 16:24:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 16:24:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 16:24:33 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 16:24:33 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:24:50 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:24:50 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:24:54 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:24:54 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:24:54 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:24:54 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:24:54 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:24:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:24:55 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:24:55 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:24:55 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:24:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:24:56 - SentrifugoDev.CommonLip.LogUtil Selec vacation from 7th till 8th
+[DEBUG] 2020-03-03 16:24:56 - SentrifugoDev.CommonLip.LogUtil Getting text from Warnind popup message in Leave Request tab
+[DEBUG] 2020-03-03 16:24:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'OK' button of Warning popup in Leave Request tab
+[DEBUG] 2020-03-03 16:24:57 - SentrifugoDev.CommonLip.LogUtil Waiting till the new password is sending 
+[DEBUG] 2020-03-03 16:24:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 16:24:57 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 16:24:57 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 16:24:58 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:39:10 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:39:10 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:39:14 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:39:14 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:39:14 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:39:14 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:39:14 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:39:14 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:39:14 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:39:14 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:39:15 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:39:15 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:39:15 - SentrifugoDev.CommonLip.LogUtil Select vacation on weekends/holidays 
+[DEBUG] 2020-03-03 16:39:15 - SentrifugoDev.CommonLip.LogUtil Getting text from Warnind popup message in Leave Request tab
+[DEBUG] 2020-03-03 16:39:16 - SentrifugoDev.CommonLip.LogUtil Clicked on 'OK' button of Warning popup in Leave Request tab
+[DEBUG] 2020-03-03 16:39:16 - SentrifugoDev.CommonLip.LogUtil Waiting till the new password is sending 
+[DEBUG] 2020-03-03 16:39:16 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 16:39:16 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 16:39:16 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 16:39:17 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:47:22 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:47:22 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:47:26 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:47:26 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:47:26 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:47:26 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:47:26 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:47:27 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:47:27 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:47:27 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:47:27 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:47:27 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:47:28 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-03 16:47:28 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:47:28 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Clicked on 'From' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Year' DropDown of Date Picker Calendar
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Clicked on Next Year option in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Selected the date 10in 'From' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Clicked on 'To' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Year' DropDown of Date Picker Calendar
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Clicked on Next Year option in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Selected the date 10in 'To' field in the Create: Leave request Form
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 16:47:29 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'To' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 16:47:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:47:30 - SentrifugoDev.CommonLip.LogUtil Waiting till the new password is sending 
+[DEBUG] 2020-03-03 16:47:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 16:47:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 16:47:30 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 16:47:30 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 16:50:44 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:50:44 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:50:47 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:50:47 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:50:47 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:50:48 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:50:48 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:50:48 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:50:48 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:50:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:50:49 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:50:49 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:50:50 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-03 16:50:50 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:50:50 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:50:50 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:50:50 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:50:51 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 16:51:10 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 16:51:10 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 16:51:16 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 16:51:16 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 16:51:16 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 16:51:16 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 16:51:16 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 16:51:19 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 16:51:19 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 16:51:19 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 16:51:19 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 16:51:20 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:51:21 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-03 16:51:21 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:51:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:51:21 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:51:21 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:51:24 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 16:51:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 16:51:25 - SentrifugoDev.CommonLip.LogUtil Select vacation from 5th till 6th
+[DEBUG] 2020-03-03 16:51:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 16:51:26 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 16:51:26 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 16:51:26 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:51:26 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'From' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 16:51:27 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 16:51:27 - SentrifugoDev.CommonLip.LogUtil Waiting till the new password is sending 
+[DEBUG] 2020-03-03 16:51:27 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 16:51:27 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 16:51:27 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 16:51:27 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 17:14:30 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 17:14:30 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 17:14:36 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 17:14:36 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 17:14:36 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 17:14:36 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 17:14:36 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 17:14:37 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 17:14:37 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 17:14:37 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 17:14:38 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 17:14:38 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 17:14:38 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 17:14:39 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 17:14:39 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 17:14:39 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: tesr2
+[DEBUG] 2020-03-03 17:14:39 - SentrifugoDev.CommonLip.LogUtil Cleared 'To' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:14:39 - SentrifugoDev.CommonLip.LogUtil Filled in To field in the Create: Leave request Form with data: 2020/3/15
+[DEBUG] 2020-03-03 17:14:39 - SentrifugoDev.CommonLip.LogUtil Cleared 'From' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:14:39 - SentrifugoDev.CommonLip.LogUtil Filled in From field in the Create: Leave request Form with data: 2020/4/2
+[DEBUG] 2020-03-03 17:14:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:14:51 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 17:15:29 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 17:15:29 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 17:15:37 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 17:15:37 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 17:15:37 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 17:15:37 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 17:15:37 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 17:15:38 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 17:15:38 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 17:15:38 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 17:15:39 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 17:15:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 17:15:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 17:15:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 17:15:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 17:15:40 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: tesr2
+[DEBUG] 2020-03-03 17:15:41 - SentrifugoDev.CommonLip.LogUtil Cleared 'To' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:15:41 - SentrifugoDev.CommonLip.LogUtil Filled in To field in the Create: Leave request Form with data: 2020/3/15
+[DEBUG] 2020-03-03 17:15:41 - SentrifugoDev.CommonLip.LogUtil Cleared 'From' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:15:41 - SentrifugoDev.CommonLip.LogUtil Filled in From field in the Create: Leave request Form with data: 2020/3/12
+[DEBUG] 2020-03-03 17:15:41 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:15:53 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 17:16:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 17:16:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 17:16:20 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 17:16:20 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 17:16:20 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 17:16:21 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 17:16:21 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 17:16:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 17:16:21 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 17:16:21 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 17:16:22 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 17:16:22 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 17:16:22 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 17:16:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 17:16:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 17:16:23 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: tesr2
+[DEBUG] 2020-03-03 17:16:23 - SentrifugoDev.CommonLip.LogUtil Cleared 'To' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:16:23 - SentrifugoDev.CommonLip.LogUtil Filled in To field in the Create: Leave request Form with data: 2020/3/15
+[DEBUG] 2020-03-03 17:16:23 - SentrifugoDev.CommonLip.LogUtil Cleared 'From' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:16:23 - SentrifugoDev.CommonLip.LogUtil Filled in From field in the Create: Leave request Form with data: 2020/3/12
+[DEBUG] 2020-03-03 17:16:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:19:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 17:19:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 17:20:06 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 17:20:06 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 17:20:06 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 17:20:06 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 17:20:06 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 17:20:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 17:20:07 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 17:20:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 17:20:08 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 17:20:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 17:20:09 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 4th
+[DEBUG] 2020-03-03 17:20:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 17:20:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 17:20:10 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: TwoLeaves
+[DEBUG] 2020-03-03 17:20:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave For' dropdown in Create: Leave Request form
+[DEBUG] 2020-03-03 17:20:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Half Day option in 'Leave For' dropdown
+[DEBUG] 2020-03-03 17:20:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:20:15 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-03 17:20:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 17:20:16 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 17:20:16 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 17:20:16 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-03 17:24:27 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-03 17:24:27 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-03 17:24:30 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-03 17:24:30 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-03 17:24:30 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-03 17:24:31 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-03 17:24:31 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-03 17:24:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-03 17:24:31 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-03 17:24:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-03 17:24:32 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-03 17:24:32 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-03 17:24:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply Leave' button in Leave Request tab
+[DEBUG] 2020-03-03 17:24:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-03 17:24:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Sick Leave option in 'Leave Type'
+[DEBUG] 2020-03-03 17:24:33 - SentrifugoDev.CommonLip.LogUtil Cleared 'To' field of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:24:33 - SentrifugoDev.CommonLip.LogUtil Getting text from error message for 'To' field  in the Create: Leave request Form
+[DEBUG] 2020-03-03 17:24:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Close' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-03 17:24:33 - SentrifugoDev.CommonLip.LogUtil Waiting till the new password is sending 
+[DEBUG] 2020-03-03 17:24:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-03 17:24:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-03 17:24:33 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-03 17:24:34 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser

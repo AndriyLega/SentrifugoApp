@@ -1,0 +1,229 @@
+[DEBUG] 2020-04-01 11:12:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 11:12:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 11:12:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 11:12:59 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 11:12:59 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 11:12:59 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 11:13:00 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-04-01 11:13:00 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 11:13:01 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 11:13:01 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-04-01 11:13:01 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 15:28:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 15:28:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 15:28:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 15:28:59 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 15:28:59 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 15:28:59 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 15:29:00 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 15:29:00 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 15:29:06 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 15:29:06 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 15:29:06 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 15:29:07 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 15:29:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 15:42:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 15:42:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 15:42:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 15:42:32 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 16:52:10 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 16:52:10 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 16:52:10 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 16:52:14 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 16:52:14 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 16:52:14 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 16:52:14 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 16:52:14 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 16:52:15 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 16:52:15 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 16:52:15 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 16:52:15 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 16:52:16 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 16:54:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 16:54:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 16:54:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 16:54:25 - SentrifugoDev.CommonLip.LogUtil Please find more information on this screen: 2020-04-01-04-54-24.jpeg
+[DEBUG] 2020-04-01 16:54:25 - SentrifugoDev.CommonLip.LogUtil System.ArgumentException : An item with the same key has already been added.
+[DEBUG] 2020-04-01 16:54:25 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 16:59:08 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 16:59:08 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 16:59:08 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 16:59:12 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 16:59:12 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 16:59:12 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 16:59:12 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 16:59:12 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 16:59:13 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 16:59:13 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 16:59:13 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 16:59:13 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 16:59:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 17:02:48 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 17:02:48 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 17:02:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 17:02:49 - SentrifugoDev.CommonLip.LogUtil Please find more information on this screen: 2020-04-01-05-02-48.jpeg
+[DEBUG] 2020-04-01 17:02:49 - SentrifugoDev.CommonLip.LogUtil System.ArgumentException : An item with the same key has already been added.
+[DEBUG] 2020-04-01 17:02:49 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 17:03:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 17:03:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 17:03:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 17:03:19 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 17:03:19 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 17:03:19 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 17:03:19 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 17:03:19 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 17:03:20 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 17:03:20 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 17:03:20 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 17:03:21 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 17:03:21 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 17:04:43 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 17:04:44 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 17:04:44 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 17:04:44 - SentrifugoDev.CommonLip.LogUtil Please find more information on this screen: 2020-04-01-05-04-44.jpeg
+[DEBUG] 2020-04-01 17:04:44 - SentrifugoDev.CommonLip.LogUtil System.ArgumentException : An item with the same key has already been added.
+[DEBUG] 2020-04-01 17:04:44 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 17:05:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 17:05:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 17:05:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 17:05:19 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 17:05:19 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 17:05:19 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 17:05:19 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 17:05:19 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 17:05:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 17:05:21 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 17:05:21 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 17:05:21 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 17:05:22 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 17:05:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 17:05:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 17:05:47 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 17:05:48 - SentrifugoDev.CommonLip.LogUtil Please find more information on this screen: 2020-04-01-05-05-47.jpeg
+[DEBUG] 2020-04-01 17:05:48 - SentrifugoDev.CommonLip.LogUtil System.ArgumentException : An item with the same key has already been added.
+[DEBUG] 2020-04-01 17:05:48 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 17:09:21 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 17:09:21 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 17:09:21 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 17:09:27 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 17:09:27 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 17:09:27 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 17:09:27 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 17:09:27 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 17:09:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 17:09:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 17:09:31 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 17:09:31 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 17:09:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 17:10:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 17:10:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 17:10:08 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 17:10:09 - SentrifugoDev.CommonLip.LogUtil Please find more information on this screen: 2020-04-01-05-10-08.jpeg
+[DEBUG] 2020-04-01 17:10:09 - SentrifugoDev.CommonLip.LogUtil System.ArgumentException : An item with the same key has already been added.
+[DEBUG] 2020-04-01 17:10:09 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 17:10:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 17:10:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 17:10:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 17:10:58 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 17:10:58 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 17:10:58 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 17:10:58 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 17:10:58 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 17:10:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 17:10:59 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 17:10:59 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 17:11:00 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 17:11:00 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 17:11:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 17:11:33 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 17:11:33 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 17:11:34 - SentrifugoDev.CommonLip.LogUtil Please find more information on this screen: 2020-04-01-05-11-33.jpeg
+[DEBUG] 2020-04-01 17:11:34 - SentrifugoDev.CommonLip.LogUtil System.ArgumentException : An item with the same key has already been added.
+[DEBUG] 2020-04-01 17:11:34 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 17:12:24 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 17:12:24 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 17:12:24 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 17:12:27 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 17:12:27 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 17:12:27 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 17:12:28 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 17:12:28 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 17:12:28 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 17:12:28 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 17:12:28 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 17:12:29 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 17:12:29 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 17:12:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 17:12:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 17:12:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 17:12:48 - SentrifugoDev.CommonLip.LogUtil Please find more information on this screen: 2020-04-01-05-12-48.jpeg
+[DEBUG] 2020-04-01 17:12:48 - SentrifugoDev.CommonLip.LogUtil System.ArgumentException : An item with the same key has already been added.
+[DEBUG] 2020-04-01 17:12:48 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 17:13:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 17:13:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 17:13:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 17:13:56 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 17:13:56 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 17:13:56 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 17:13:56 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 17:13:56 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 17:13:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 17:13:59 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 17:13:59 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 17:13:59 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 17:14:00 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 17:15:35 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 17:15:35 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 17:15:35 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 17:15:36 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 17:15:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 17:15:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 17:15:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 17:15:57 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 17:15:57 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 17:15:57 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 17:15:57 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 17:15:57 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 17:15:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 17:15:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 17:15:58 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 17:15:58 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 17:15:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 17:16:21 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 17:16:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 17:16:21 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 17:16:21 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 17:16:46 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 17:16:46 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 17:16:46 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 17:16:50 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 17:16:50 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 17:16:50 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 17:16:50 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 17:16:50 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 17:16:50 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 17:16:50 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 17:16:50 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 17:16:51 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 17:16:51 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 17:18:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 17:18:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 17:18:30 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 17:18:30 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-04-01 17:18:46 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-04-01 17:18:46 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-04-01 17:18:46 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-04-01 17:18:50 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-04-01 17:18:50 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-04-01 17:18:50 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-04-01 17:18:50 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-04-01 17:18:50 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-04-01 17:18:51 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-04-01 17:18:51 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-04-01 17:18:51 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-04-01 17:18:51 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-04-01 17:18:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'My Details' button in Self Service Menu
+[DEBUG] 2020-04-01 17:19:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-04-01 17:19:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-04-01 17:19:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-04-01 17:19:31 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser

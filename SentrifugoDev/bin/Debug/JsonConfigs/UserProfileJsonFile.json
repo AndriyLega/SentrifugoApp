@@ -1,0 +1,25 @@
+{
+  //List of input data
+  "CorrectCurrentPassword": "Asdf*2810",
+  "IncorrectCurrentPassword": "Asdf*2830",
+  "ValidNewPassword": "Net@12345",
+  "InvalidNewPassword": "Net!12345",
+  "ValidConfirmPassword": "Net@12345",
+  "InvalidConfirmPassword": "Net!12345",
+  "IncorrectConfirmPassword": "Net112345",
+  "ShortPassword": "123",
+
+  //List of warning messages
+  "EmptyCurrentPasswordWarningMessage": "Please enter current password.",
+  "EmptyNewPasswordWarningMessage": "Please enter new password.",
+  "EmptyConfirmPasswordWarningMessage": "Please enter confirm password.",
+  "IncorrectCurrentPasswordWarningMessage": "Wrong password. Please enter correct password.",
+  "InvaildNewPasswordWarningMessage": "Please enter only characters,numbers and special characters.",
+  "InvaildConfirmPasswordWarningMessage": "Please enter only characters,numbers and special characters.",
+  "NotMatchConfirmPasswordWarningMessage": "New password and confirm password did not match.",
+  "ShortNewPasswordWarningMessage": "New password should be atleast 6 characters long.",
+  "ShortConfirmPasswordWarningMessage": "Confirm password should be atleast 6 characters long.",
+  "SameCurrentAndNewPasswordWarningMessage": "Please choose a different password.",
+  "SuccessMessageOfChangedPassword": "Password changed successfully."
+
+}

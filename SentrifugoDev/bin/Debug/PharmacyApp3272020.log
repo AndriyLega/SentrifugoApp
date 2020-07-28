@@ -1,0 +1,1547 @@
+[DEBUG] 2020-03-27 17:16:35 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:16:35 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:16:35 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:16:43 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:16:43 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:16:43 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:16:43 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:16:44 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:16:45 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:16:45 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:16:45 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:16:46 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:16:47 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:16:48 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:17:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 17:17:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e746eddd-71a9-4836-af67-5a3fe2fa9d2d)
+[DEBUG] 2020-03-27 17:17:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ecdc1b09-0df5-423c-880b-9dc0ee7c91aa)
+[DEBUG] 2020-03-27 17:17:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f61ffa65-1e93-40d2-8afe-262f1eeac6a8)
+[DEBUG] 2020-03-27 17:17:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ccb9f261-f98f-471c-94f0-8b4a9a51900f)
+[DEBUG] 2020-03-27 17:17:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 82f0ae07-b3e3-404f-9257-6123525ed2e8)
+[DEBUG] 2020-03-27 17:17:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4c2c6f93-aeed-431d-ae68-8fd10cfd75e6)
+[DEBUG] 2020-03-27 17:17:03 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 7a579177-6714-42ed-a1db-04a14205b39f)
+[DEBUG] 2020-03-27 17:17:03 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 17:17:03 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Applied On
+[DEBUG] 2020-03-27 17:17:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c356eab8-2d31-4ed0-a056-328943710090)
+[DEBUG] 2020-03-27 17:18:23 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020320in 'Applied On' field in 'Applied On' column
+[DEBUG] 2020-03-27 17:18:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:18:24 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:18:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:18:24 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 17:21:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:21:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:21:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:21:42 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:21:42 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:21:42 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:21:42 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:21:42 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:21:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:21:43 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:21:43 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:21:44 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:21:44 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37994148-4012-4936-a9cd-d5aad5dc1f3b)
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e6f31e47-c352-477e-bc3c-ee730ef4d72e)
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ff466d19-ea5a-4760-9564-4c6e81198352)
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e10203be-9985-4c29-b6cf-f29ba5f897c4)
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f1e12739-edd2-400c-8b76-5b07b6805032)
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 556d7d0c-7659-41ef-b079-d051f5da1b1e)
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 97db0084-74a4-4440-8730-575b84202a49)
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Applied On
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9c0a0b64-5a22-4376-987d-07fd54762199)
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Selected year 1997 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Selected month 10 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 17:21:45 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 19971020in 'Applied On' field in 'Applied On' column
+[DEBUG] 2020-03-27 17:22:04 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:22:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:22:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:22:09 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 17:29:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:29:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:29:37 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:29:41 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:29:41 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:29:41 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:29:42 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:29:42 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:29:42 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:29:42 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:29:42 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:29:43 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:29:44 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:29:44 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:29:44 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-27 17:29:45 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 17:29:46 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-27 17:29:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 17:29:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 17:29:47 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 17:29:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 17:29:47 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 17:29:52 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:29:52 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-27 17:29:52 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:29:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-27 17:29:53 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-27 17:29:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:29:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:29:53 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:29:53 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-27 17:29:53 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:29:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:29:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:29:54 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-27 17:29:54 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:29:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:30:05 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-27 17:30:05 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click 'Option' button of 1th record in Table plugin********************** By.XPath: //tbody//tr[1]//tbody//tr[5]//div[@class='grid-action-align']/a[@title = 'Approve or Reject or Cancel Leave']
+[DEBUG] 2020-03-27 17:31:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:31:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:31:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:31:38 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:31:38 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:31:38 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:31:39 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:31:39 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:31:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:31:40 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:31:40 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:31:41 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:31:41 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:31:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:31:42 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:31:42 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 17:31:43 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-27 17:31:44 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 17:31:44 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 17:31:44 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 17:31:44 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 17:31:44 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 17:32:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:32:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:32:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:32:49 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:32:49 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:32:49 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:32:49 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:32:49 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:32:50 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:32:50 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:32:50 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:32:51 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:32:51 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:32:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:32:52 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-27 17:32:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 17:32:53 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-27 17:32:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 17:32:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 17:32:54 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 17:32:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 17:32:54 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 17:32:58 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:32:58 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-27 17:32:58 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:32:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-27 17:32:59 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-27 17:32:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:32:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:32:59 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:32:59 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-27 17:32:59 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:33:00 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:33:00 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:33:00 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-27 17:33:00 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:33:01 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:33:31 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-27 17:33:31 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click 'Option' button of 1th record in Table plugin********************** By.XPath: //tbody//tr[1]//tbody//tr[5]//div[@class='grid-action-align']/a[@title = 'Approve or Reject or Cancel Leave']
+[DEBUG] 2020-03-27 17:34:58 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:34:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:34:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:34:59 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 17:36:09 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:36:09 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:36:09 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:36:15 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:36:15 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:36:15 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:36:15 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:36:15 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:36:16 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:36:16 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:36:16 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:36:17 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:36:18 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:36:18 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:36:18 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-27 17:36:19 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 17:36:20 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-27 17:36:20 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 17:36:20 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 17:36:20 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 17:36:20 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 17:36:20 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 17:36:25 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:36:25 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-27 17:36:25 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:36:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-27 17:36:25 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-27 17:36:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:36:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:36:26 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:36:26 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-27 17:36:26 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:36:26 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:36:26 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:36:26 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-27 17:36:27 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:36:27 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:36:27 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b4cb280c-31a8-45ee-a644-5d857cc1eb30)
+[DEBUG] 2020-03-27 17:36:27 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Option' button of 1th record in Table plugin
+[DEBUG] 2020-03-27 17:37:09 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-27 17:37:09 - SentrifugoDev.CommonLip.LogUtil Selected option Reject in 'Status' dropdown in Leave Request window 
+[DEBUG] 2020-03-27 17:37:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Save' button in Leave Request window
+[DEBUG] 2020-03-27 17:37:09 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-27 17:37:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:37:25 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-27 17:37:25 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT click on 'Logout' option********************** By.XPath: //div[@class='logoutdiv']/a[text()='Logout']
+[DEBUG] 2020-03-27 17:38:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:38:20 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:38:20 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:38:20 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 17:38:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:38:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:38:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:38:59 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:38:59 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:38:59 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:38:59 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:38:59 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:39:00 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:39:00 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:39:00 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:39:00 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:39:01 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:39:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:39:01 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-27 17:39:02 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 17:39:02 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-27 17:39:03 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 17:39:03 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 17:39:03 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 17:39:03 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 17:39:03 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 17:39:07 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:39:07 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-27 17:39:07 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:39:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-27 17:39:08 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 3
+[DEBUG] 2020-03-27 17:39:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:39:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:39:08 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:39:08 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-27 17:39:08 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:39:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:39:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:39:09 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-27 17:39:09 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:39:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:39:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e81760f9-c42f-4957-b430-c287e1f7916b)
+[DEBUG] 2020-03-27 17:39:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Option' button of 1th record in Table plugin
+[DEBUG] 2020-03-27 17:39:11 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-27 17:39:11 - SentrifugoDev.CommonLip.LogUtil Selected option Reject in 'Status' dropdown in Leave Request window 
+[DEBUG] 2020-03-27 17:39:12 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Save' button in Leave Request window
+[DEBUG] 2020-03-27 17:39:15 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-27 17:39:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:39:46 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:39:46 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:39:48 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:39:48 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:39:48 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:39:48 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:39:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:39:50 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:39:53 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:39:55 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-27 17:39:58 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 4
+[DEBUG] 2020-03-27 17:40:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:40:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:40:47 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:40:47 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 17:42:32 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:42:32 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:42:32 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:42:37 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:42:37 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:42:37 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:42:37 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:42:37 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:42:38 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:42:38 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:42:38 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:42:38 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:42:39 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:42:39 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:42:39 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-27 17:42:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 17:42:40 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-27 17:42:41 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 17:42:41 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 17:42:41 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 17:42:41 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 17:42:41 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 17:42:46 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:42:46 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-27 17:42:46 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:42:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-27 17:42:46 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 4
+[DEBUG] 2020-03-27 17:42:46 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:42:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:42:47 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:42:47 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-27 17:42:47 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:42:48 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:42:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:42:48 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-27 17:42:49 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:42:49 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:42:49 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 17:42:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 43af6a87-86d3-4c08-a096-d5a49c6eaba5)
+[DEBUG] 2020-03-27 17:42:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2b6352ba-32d7-4a13-b0e4-9ee9bb03ee9d)
+[DEBUG] 2020-03-27 17:42:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2b9b1df7-13fe-4f54-a235-a4bbde4e9b66)
+[DEBUG] 2020-03-27 17:42:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 24186a25-e877-4a68-a030-ea9db8748a1e)
+[DEBUG] 2020-03-27 17:42:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 49478003-97e6-4dbd-ab01-85ef2f6fed6b)
+[DEBUG] 2020-03-27 17:42:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1e231509-b6de-4ff6-ba02-7c84479e7892)
+[DEBUG] 2020-03-27 17:42:50 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f2e4e3b7-1758-47cd-a314-ef43efced545)
+[DEBUG] 2020-03-27 17:42:50 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 17:42:50 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Employee
+[DEBUG] 2020-03-27 17:43:00 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-27 17:43:00 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT find 'Employee' field********************** By.XPath: //thead//tr[@id = 'search_tr_pendingleaves']//th[2]//input
+[DEBUG] 2020-03-27 17:45:56 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:45:57 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:45:57 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:45:57 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 17:46:21 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:46:21 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:46:21 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:46:26 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:46:26 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:46:26 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:46:26 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:46:26 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:46:27 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:46:27 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:46:27 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:46:28 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:46:28 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:46:29 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:46:29 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-27 17:46:29 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 17:46:30 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-27 17:46:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 17:46:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 17:46:31 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 17:46:31 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 17:46:31 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 17:46:41 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-27 17:46:41 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT get text from Successfully created Leave request message in My Leave tab********************** By.XPath: //div[@id='messageData']
+[DEBUG] 2020-03-27 17:47:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:47:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:47:28 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:47:31 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:47:31 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:47:31 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:47:32 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:47:32 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:47:32 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:47:32 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:47:32 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:47:33 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:47:34 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:47:34 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:47:34 - SentrifugoDev.CommonLip.LogUtil The table has no records
+[DEBUG] 2020-03-27 17:47:35 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 17:47:35 - SentrifugoDev.CommonLip.LogUtil Select vacation from 4th till 7th
+[DEBUG] 2020-03-27 17:47:36 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 17:47:36 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 17:47:36 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 17:47:36 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 17:47:36 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 17:47:40 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:47:40 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-27 17:47:40 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:47:41 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-27 17:47:41 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 5
+[DEBUG] 2020-03-27 17:47:41 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:47:41 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:47:41 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:47:41 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-27 17:47:41 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:47:42 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:47:42 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:47:42 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-27 17:47:42 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b1085f1b-4104-4765-b811-7978c6c92739)
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d2629e0c-d740-4de5-a23b-76b23e9adcf8)
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b80d6811-2910-47ba-ac9f-5608086cacf5)
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 68c32710-19fe-4c86-a0f7-e87a6caf4320)
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 402e31ec-a488-4aa9-8faf-6647df45e76d)
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ec89a5e6-ad9e-4c53-8d9e-05e297f95d4e)
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 033514d4-05ae-469e-bd0b-3efc5ccf150b)
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Employee
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9f8f8eed-e0d6-46c2-bef5-579176e97559)
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Filled in 'Employee' field in search block of table in My Leave tab with data: Valentyn Mikhyeyev
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Searched all records by data: Valentyn Mikhyeyevin the 'Employee' column
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 801b6826-8bac-4882-bb65-336b4558b62e)
+[DEBUG] 2020-03-27 17:47:43 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Option' button of 1th record in Table plugin
+[DEBUG] 2020-03-27 17:47:54 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-27 17:47:54 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT find rame of Leave Request window ********************** By.XPath: //iframe[@id= 'leaverequestCont']
+[DEBUG] 2020-03-27 17:50:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:50:54 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:50:54 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:50:57 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:50:57 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:50:57 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:50:57 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:50:58 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:50:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:50:58 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:50:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:50:59 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:50:59 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:51:00 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:51:00 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:51:00 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 17:51:01 - SentrifugoDev.CommonLip.LogUtil Select vacation from 10th till 12th
+[DEBUG] 2020-03-27 17:51:02 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 17:51:02 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 17:51:02 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 17:51:02 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 17:51:02 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 17:51:06 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-27 17:51:06 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-27 17:51:06 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-27 17:51:07 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-27 17:51:07 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 5
+[DEBUG] 2020-03-27 17:51:07 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:51:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:51:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:51:07 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-27 17:51:07 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:51:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:51:08 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:51:08 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-27 17:51:08 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1b3ba66f-abf5-4dfa-a4f4-cdce13dcf99b)
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e7ec1d18-71e9-4be1-bdec-894282185ae3)
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 72bf6272-71ce-4808-97f8-d5f84ac146da)
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3744f979-bdb9-4c71-824a-58ca7d633bd2)
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = cc81089d-27b0-48d5-8eb5-d8b2e16fef5c)
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c7a9e48e-c936-4c89-94f3-317d5fd3f302)
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2f8cb58d-0ba4-4d0d-b24a-20b3d68e315e)
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Employee
+[DEBUG] 2020-03-27 17:51:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8b36f779-c74f-4e59-8b9b-a50d178912d7)
+[DEBUG] 2020-03-27 17:51:10 - SentrifugoDev.CommonLip.LogUtil Filled in 'Employee' field in search block of table in My Leave tab with data: Valentyn Mikhyeyev
+[DEBUG] 2020-03-27 17:51:10 - SentrifugoDev.CommonLip.LogUtil Searched all records by data: Valentyn Mikhyeyevin the 'Employee' column
+[DEBUG] 2020-03-27 17:51:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4cd53b1f-d519-48f8-a528-66a8f46f73fa)
+[DEBUG] 2020-03-27 17:51:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Option' button of 1th record in Table plugin
+[DEBUG] 2020-03-27 17:51:20 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-03-27 17:51:20 - SentrifugoDev.CommonLip.LogUtil **********************Can NOT find rame of Leave Request window ********************** By.XPath: //iframe[@id= 'leaverequestCont']
+[DEBUG] 2020-03-27 17:54:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:54:13 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:54:13 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:54:14 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 17:54:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 17:54:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 17:54:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 17:54:56 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 17:54:56 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 17:54:56 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 17:54:57 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:54:57 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:55:00 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:55:00 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:55:00 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:55:01 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:55:01 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:55:02 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 17:55:02 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 17:55:02 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 17:55:03 - SentrifugoDev.CommonLip.LogUtil Select vacation from 10th till 12th
+[DEBUG] 2020-03-27 17:55:04 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 17:55:04 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 17:55:04 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 17:55:04 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 17:55:04 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 17:55:08 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-27 17:55:08 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-27 17:55:08 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-27 17:55:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-27 17:55:08 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 5
+[DEBUG] 2020-03-27 17:55:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:55:08 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:55:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:55:09 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-27 17:55:09 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:55:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:55:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:55:09 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-27 17:55:10 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:55:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:55:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b0dec65d-7110-4976-bfc6-eeed9d02bcc4)
+[DEBUG] 2020-03-27 17:55:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Option' button of 6th record in Table plugin
+[DEBUG] 2020-03-27 17:55:11 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-27 17:55:11 - SentrifugoDev.CommonLip.LogUtil Selected option Reject in 'Status' dropdown in Leave Request window 
+[DEBUG] 2020-03-27 17:55:11 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Save' button in Leave Request window
+[DEBUG] 2020-03-27 17:55:15 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-27 17:55:15 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:55:15 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:55:15 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:55:15 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 17:55:15 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 17:55:16 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 17:55:16 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 17:55:16 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 17:55:16 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 17:55:17 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 17:55:17 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Rejected Leaves' filter button in My Leave tab
+[DEBUG] 2020-03-27 17:55:17 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 6
+[DEBUG] 2020-03-27 17:55:27 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 17:55:27 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 17:55:27 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 17:55:27 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 18:00:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 18:00:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 18:00:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 18:00:20 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 18:00:20 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 18:00:20 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 18:00:21 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 18:00:21 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 18:00:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 18:00:21 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 18:00:21 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 18:00:22 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 18:00:23 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 18:00:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Pending Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 18:00:23 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 18:00:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Leave Request button in Self Service Menu
+[DEBUG] 2020-03-27 18:00:24 - SentrifugoDev.CommonLip.LogUtil Select vacation from 18th till 19th
+[DEBUG] 2020-03-27 18:00:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Leave Type' DropDown
+[DEBUG] 2020-03-27 18:00:25 - SentrifugoDev.CommonLip.LogUtil Clicked on Vacation option in 'Leave Type'
+[DEBUG] 2020-03-27 18:00:25 - SentrifugoDev.CommonLip.LogUtil Filled in Reason field in the Create: Leave request Form with data: Reason test success leave
+[DEBUG] 2020-03-27 18:00:25 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Apply' button of Leave Request form in Leave Request tab
+[DEBUG] 2020-03-27 18:00:25 - SentrifugoDev.CommonLip.LogUtil Getting text Successfull action message in My Leave tab
+[DEBUG] 2020-03-27 18:00:29 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-27 18:00:29 - SentrifugoDev.CommonLip.LogUtil Got the number of leaves of filter section in My Leave tab
+[DEBUG] 2020-03-27 18:00:29 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-27 18:00:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Approved Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 18:00:30 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 1
+[DEBUG] 2020-03-27 18:00:30 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 18:00:30 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 18:00:30 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 18:00:30 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-03-27 18:00:30 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 18:00:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 18:00:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 18:00:31 - SentrifugoDev.CommonLip.LogUtil Login to system with Recruitments role
+[DEBUG] 2020-03-27 18:00:31 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 18:00:32 - SentrifugoDev.CommonLip.LogUtil Clicked on Employee Leave button in Self Service Menu
+[DEBUG] 2020-03-27 18:00:32 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3ac630c5-399c-42d7-bce4-f8619d39f378)
+[DEBUG] 2020-03-27 18:00:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Option' button of 6th record in Table plugin
+[DEBUG] 2020-03-27 18:00:33 - SentrifugoDev.CommonLip.LogUtil Swiched to frame of Leave Request window 
+[DEBUG] 2020-03-27 18:00:33 - SentrifugoDev.CommonLip.LogUtil Selected option Approve in 'Status' dropdown in Leave Request window 
+[DEBUG] 2020-03-27 18:00:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Save' button in Leave Request window
+[DEBUG] 2020-03-27 18:00:37 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-27 18:00:37 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 18:00:37 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 18:00:37 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 18:00:38 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 18:00:38 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 18:00:38 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 18:00:38 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 18:00:38 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 18:00:39 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 18:00:39 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 18:00:39 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Approved Leaves' filter button in My Leave  tab
+[DEBUG] 2020-03-27 18:00:39 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 2
+[DEBUG] 2020-03-27 18:00:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 18:00:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 18:00:43 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 18:00:43 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 18:22:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 18:22:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 18:22:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 18:23:02 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 18:23:02 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 18:23:02 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 18:23:02 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 18:23:02 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 18:23:03 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 18:23:03 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 18:23:03 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 18:23:04 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 18:23:04 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 18:23:05 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 18:35:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 18:35:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 18:35:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 18:35:37 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 18:35:37 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 18:35:37 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 18:35:37 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 18:35:37 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 18:35:38 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 18:35:38 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 18:35:38 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 18:35:38 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 18:35:39 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b252e155-32a2-47ff-abba-4d1c038117b5)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d600d58b-9f1b-48f3-a203-d484b5810f9e)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ceb4086a-17cc-4bc7-ac76-4a950aaa4164)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9956cf54-f846-40ba-90f9-a843142a9657)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3686d468-c3e3-4636-bc50-b6e9a0d0a1dc)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1634f427-bbf1-4215-812c-6aec742fc26d)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8841ef31-81b3-452e-9099-9e059172dba8)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Reason
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3519b1d7-1812-4135-9753-5fbb852a20ef)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Filled in 'Reason' field in search block of table in My Leave tab with data: Reason
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Searched all records by data: Reasonin the 'Reason' column
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 11b2468f-0dba-4621-bc21-39e3ff69efa9)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6e86f6b7-1d1c-46c1-a811-b3fd4702c56b)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c1d60946-4634-445f-8cc9-26f2df2a59be)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 18c4f113-c210-48bc-9976-f63c0414cb35)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 972e9232-48a0-463f-b670-017c1646fe0d)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 7ade6029-f320-439f-8a56-7a286a8b65ac)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 757a723e-3011-44d6-a85b-db5adc5b1180)
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 18:35:40 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: Reason
+[DEBUG] 2020-03-27 18:35:41 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: Reason
+[DEBUG] 2020-03-27 18:54:01 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 18:54:01 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 18:54:01 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 18:54:06 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 18:54:06 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 18:54:06 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 18:54:06 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 18:54:06 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 18:54:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 18:54:07 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 18:54:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 18:54:07 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 18:54:08 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 18:54:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 18:54:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ad2845dd-dd11-49d6-b2f3-b1c2a174ef76)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 92b27409-bfe7-40c4-9099-ce4897062231)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fa0f2414-77a5-4bfa-b95e-ab5a3f8d79f9)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ce814fbc-65bd-41bf-97cc-6b38d85ca3bc)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = aeafe7f2-7cc0-4d7f-9b16-bab540d0b134)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 835ad0df-ac62-45a7-973b-0f8a5f1cdcfb)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = cec2085f-f2ec-4bdd-819e-769459c858c7)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 800af791-5a3b-4865-b81b-4817eaabd07c)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020037in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = aeec825e-b756-413b-9d3b-285aae41afc4)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ca049770-3ecf-4a1c-a843-ccadcd8cb299)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 97cf0b50-ba0f-4745-be74-5ad72b9830b7)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 030dfc0a-65d4-4371-bbde-1887546429af)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 23a9786e-44d1-404a-bba1-1344725136e2)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b3d6ce5a-b639-4a0c-9795-cb2b848d0309)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 61ac4ec7-9f1a-4f09-b150-a9383baf4fb8)
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 18:54:09 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 18:54:10 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 18:54:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 18:54:48 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 18:54:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 18:54:49 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 18:55:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 18:55:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 18:55:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 18:55:20 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 18:55:20 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 18:55:20 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 18:55:21 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 18:55:21 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 18:55:22 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 18:55:22 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 18:55:22 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 18:55:22 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 18:55:23 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 18:55:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = cc7e9137-6b98-41e3-806c-064b579bc527)
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4b0893ef-3f8a-4b07-aa0a-8baf75c1037e)
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6756b29d-3768-49de-90a9-1d208ad8bd69)
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a6c06a4a-5ff5-4340-9f32-3574d4182f06)
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4b70a79f-1e76-44a2-9028-910d8ceeaa49)
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a2a3b0d0-4b80-4f0c-ba15-37fb46a66a51)
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = cd5e5ef4-d6ef-4406-a99e-68d0df19af25)
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 7c70d147-b62a-4c41-9278-d6bf9fe5cff9)
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 18:55:24 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020037in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 18:55:25 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 17f1b0f1-0062-4467-ad8a-7176e4494922)
+[DEBUG] 2020-03-27 18:55:25 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 85014919-3eec-4259-8466-9dab41b598c7)
+[DEBUG] 2020-03-27 18:55:25 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d112b18f-f45c-4771-96ed-7283ec2789af)
+[DEBUG] 2020-03-27 18:55:25 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 22b9b4af-251a-4f0a-a9f4-0abbda514292)
+[DEBUG] 2020-03-27 18:55:25 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 946ce410-1aef-4f65-a846-b803f2824f5f)
+[DEBUG] 2020-03-27 18:55:25 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4e2b642b-f6f2-441c-9d5e-96da2f829914)
+[DEBUG] 2020-03-27 18:55:25 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bf6fec63-54f6-45a2-b119-954d2e802b3b)
+[DEBUG] 2020-03-27 18:55:25 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 18:55:25 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 18:55:25 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 18:55:50 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 18:55:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 18:55:55 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 18:55:55 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 18:56:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 18:56:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 18:56:16 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 18:56:20 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 18:56:20 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 18:56:20 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 18:56:20 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 18:56:20 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 18:56:21 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 18:56:21 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 18:56:21 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 18:56:22 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 18:56:22 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5ca8cf3e-c44d-42f0-8c7b-e0aa8d81ea33)
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b5ee8584-9453-47cf-88d5-1c16c6406af3)
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ab0261dc-40ca-417f-8128-0f916a84e751)
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3fc47c81-f931-47f8-8707-0e3aa7d77a7a)
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = afe1a1eb-65cf-4be2-a397-d03376434b5b)
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 78cd945a-87d9-4bd1-bb7f-9ddd3de86a63)
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8e5ce07b-34ef-4ddc-a0d3-381331194d1b)
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b0d33b00-b5a7-4415-8e3f-27118390f173)
+[DEBUG] 2020-03-27 18:56:23 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 20200307in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c0b24037-30cb-4896-9de8-17d7c625b775)
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5666252e-820a-4a59-bfef-ba40d87b04be)
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9ddcc1ec-eae4-4165-9103-681ce660eaea)
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 7f85c709-7e81-4de7-acab-c66876edd29c)
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c80bbcf8-681a-4854-8ff5-2a48b65932a8)
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b2833204-0cd8-4bbb-beca-3a48fa4da4fa)
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 63dd842e-534d-44c6-86b8-271861252c48)
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 18:56:24 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 18:59:42 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 18:59:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 18:59:43 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 18:59:43 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:00:05 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:00:05 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:00:05 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:00:09 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:00:09 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:00:09 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:00:09 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:00:09 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:00:10 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:00:10 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:00:10 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:00:11 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:00:11 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2024d4f6-c6aa-4a9e-af09-304589139d66)
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ec851bde-7dec-4cf2-ae14-fab102177e5e)
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 95620786-21c5-4400-b2aa-3b7a5e7523cc)
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6a0857c1-2ec8-431a-9a4c-338c2fafa251)
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 50eb80ef-c009-4dc9-860b-3f64e6f29050)
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2ad86ee8-6819-4de3-9116-c1535ddd5e1c)
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1784e8dd-9e2f-42f5-8aef-f6575b6ce1d8)
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6477fbc8-49f6-49b6-985b-577d1aa145ab)
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:00:12 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 20200307in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3da7d868-94fe-4c83-b835-a522b2212ccc)
+[DEBUG] 2020-03-27 19:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 89c63a4f-1fb4-4f8e-be01-aa5ecad3c156)
+[DEBUG] 2020-03-27 19:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f3b2b848-0f39-47f5-bfb7-e3ccf0ebe801)
+[DEBUG] 2020-03-27 19:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3915fe40-a54c-4c5f-8c57-09d80f839bba)
+[DEBUG] 2020-03-27 19:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2f8283a2-0bd7-4f7f-bc35-2157a7c3243b)
+[DEBUG] 2020-03-27 19:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4c9ab904-3dc6-45ec-a7e3-19a942fa4861)
+[DEBUG] 2020-03-27 19:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 472a588a-d408-4298-874e-013efadb151c)
+[DEBUG] 2020-03-27 19:00:13 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:00:13 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:00:13 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 19:20:53 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:20:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:20:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:20:54 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:21:43 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:21:43 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:21:43 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:21:47 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:21:47 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:21:47 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:21:47 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:21:47 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:21:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:21:53 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:21:53 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:21:55 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:21:56 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6646bf16-a279-431b-ba43-46b0356fce37)
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 477e13f6-b93b-4d85-8f09-3e6f0c927277)
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9daca36b-4b5c-43f1-9008-973cacb59b09)
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c9a2bad4-6ca2-4eb9-bc51-76429263e5d2)
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 25fc09f5-d6c6-4e1c-abb1-969d41c5ac38)
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 86f5a5a1-ecc4-4861-99c5-880be4c31735)
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0b5ea5d0-5f34-4712-921f-7188ff66ba5c)
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 800ba3e9-e122-49f8-9844-bb2f11bcbc5b)
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 20200307in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:21:57 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:21:58 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:21:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:21:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:21:58 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:22:12 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:22:12 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:22:12 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:22:16 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:22:16 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:22:16 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:22:16 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:22:16 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:22:18 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:22:18 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:22:18 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:22:18 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:22:19 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:22:19 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:22:19 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2fa991ca-20f7-4d71-a2b5-c9ea9eb7c328)
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9205816e-5c8c-4581-abb2-53b5226343e0)
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a8ca3751-ca93-4a9d-b857-556f44ccfb9c)
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 75b8b1a7-0908-4f59-bbb1-9bebf674b52f)
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bb38ea6c-7f34-41bb-a667-7d8ff6ab92c3)
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d38962cf-3d26-4945-ac0e-0c165dac2f2e)
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d3c534de-2dab-4f7a-8012-150e89bf15ce)
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2cb4b67e-dfe6-4018-be79-58da050eab2b)
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 20200307in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:22:20 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:22:34 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:22:34 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:22:34 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:22:34 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:22:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:22:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:22:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:22:58 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:22:58 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:22:58 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:22:59 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:22:59 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:22:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:22:59 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:22:59 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:23:00 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:23:00 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 036b0055-fe4f-4be4-bef1-124cacc74c35)
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 25946404-cc54-4dce-8815-68ca4e449e13)
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fb5b8488-2ee9-43ae-ba75-e5af3163c62d)
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f02333a0-107b-4b30-9c8e-c935057bbd01)
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1cc98954-8e80-47a7-ac94-ada88119b5b6)
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 86d24cb5-a586-4bb0-b0da-16c147cf2d4b)
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2606489e-5bb4-4c57-b6cc-5e876fc904c5)
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:23:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9796aafb-41d4-4787-8e51-70b2df99989d)
+[DEBUG] 2020-03-27 19:23:02 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:23:02 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:23:02 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 20200307in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:23:19 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:23:24 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 19:23:30 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 19:23:38 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 32b95df3-4618-4925-a1cf-87546facb47c)
+[DEBUG] 2020-03-27 19:23:38 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 966e7f2e-578f-477c-8e16-80ca42b11848)
+[DEBUG] 2020-03-27 19:23:38 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e8050107-b508-448a-b64a-28b1e922fad2)
+[DEBUG] 2020-03-27 19:23:38 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 7ba644f8-6a81-4e69-98a9-716411c9de9d)
+[DEBUG] 2020-03-27 19:23:38 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4ddda1e2-5883-458d-9d41-3ff01762f31c)
+[DEBUG] 2020-03-27 19:23:38 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a609e1ba-f815-4f23-b9fa-799ef8cbee72)
+[DEBUG] 2020-03-27 19:23:38 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = aa7f2c45-c030-45f3-9af2-a5b219387e14)
+[DEBUG] 2020-03-27 19:23:38 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:23:38 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:23:48 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 19:24:05 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:24:06 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:24:06 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:24:06 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:24:25 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:24:25 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:24:25 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:24:30 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:24:30 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:24:30 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:24:30 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:24:30 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:24:31 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:24:31 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:24:31 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:24:31 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:24:32 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:24:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:24:32 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a76b1ce6-2593-4dcf-82f9-a2d712f5b10c)
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d80c44e4-0492-4a21-980c-529d286bfcf4)
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fe608a86-4c6e-455d-ab28-f1f467183bb3)
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a35ce1d8-6dca-4371-ae7e-ebdd9c0acaf8)
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 85d104f9-abbc-4cf0-ac7b-efabe8d16c77)
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 06b2ea85-de76-47c4-a518-da6c1f28ad9c)
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2bdfe119-0f6d-430e-8993-96f04b60f01b)
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f8cfe02e-1888-41b5-a22d-0d9a6d44167d)
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 20200307in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:24:33 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:24:34 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:24:34 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:24:34 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:30:31 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:30:31 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:30:31 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:30:35 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:30:35 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:30:35 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:30:35 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:30:35 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:30:36 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:30:36 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:30:36 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:30:36 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:30:37 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:30:37 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:30:37 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:30:37 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e5713f4f-e712-4b6f-9d24-16949fde3805)
+[DEBUG] 2020-03-27 19:30:37 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1c4746ad-d974-45a0-b14c-9f3262c0cd40)
+[DEBUG] 2020-03-27 19:30:37 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 57cd278d-b686-4944-ab35-4aa95b0d33fe)
+[DEBUG] 2020-03-27 19:30:37 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8510f61a-f0b5-45e3-9c8f-506a03dd2e89)
+[DEBUG] 2020-03-27 19:30:37 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d0130939-d092-47ba-ade8-265bc45454a5)
+[DEBUG] 2020-03-27 19:30:37 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f6a6a07-3d16-4ac3-b281-7034dcdf4e03)
+[DEBUG] 2020-03-27 19:30:38 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 01e08419-285c-4d4d-9cbc-cf49a393af56)
+[DEBUG] 2020-03-27 19:30:38 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:30:38 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:30:38 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9414ad30-4345-437d-b232-ecd002d8cb36)
+[DEBUG] 2020-03-27 19:30:38 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:30:38 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:30:38 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:30:38 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:30:38 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 19:30:39 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 19:30:39 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8bdb8a80-27cb-472a-a950-29a1f386abb2)
+[DEBUG] 2020-03-27 19:30:39 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ddf5030e-0526-441f-8d01-821b2d2d406e)
+[DEBUG] 2020-03-27 19:30:39 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 93a474ff-1286-4389-b7fa-3380e0b88bc1)
+[DEBUG] 2020-03-27 19:30:39 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5c62a3fa-5c55-497f-8823-e178e0b12477)
+[DEBUG] 2020-03-27 19:30:39 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e704c4f1-3ae7-4075-9ad7-b9463ec6d479)
+[DEBUG] 2020-03-27 19:30:39 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e890c95e-4367-498b-96e9-80670719b0f3)
+[DEBUG] 2020-03-27 19:30:39 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 81a39f9e-49e7-4599-a310-1f4da83cc67d)
+[DEBUG] 2020-03-27 19:30:39 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:30:39 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:30:40 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 19:30:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:30:40 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:30:40 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:30:40 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:30:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:30:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:30:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:30:57 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:30:57 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:30:57 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:30:57 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:30:57 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:30:58 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:30:58 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:30:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:30:58 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:30:59 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:30:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:30:59 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:30:59 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 976c411e-8ed8-4ac7-aaa1-720249988e15)
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 7a25d3d0-e662-4820-b0d4-af41f58a9ad6)
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b355db36-065e-47ae-8a5f-01485582079a)
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 948ed669-d972-4def-a0a1-4d5a295f1998)
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0e971970-39c4-44ef-8435-cd46f77bc994)
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5bb705d1-35a3-4073-b225-95458ef393bb)
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9e99a388-797e-47ac-8b34-9f3a6c76f320)
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3c2aac7b-f63c-49f4-a089-eace50cc979f)
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:31:00 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e2254bd1-5b9d-4822-8bc8-10a6671afe64)
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ea68cfc8-fb49-410c-8f29-1062b93b39ff)
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bdc873aa-aa94-4553-be59-7a51faab5354)
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8f4ac364-2a99-48a2-9ac8-59f40d0822f5)
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 42666c26-e466-4f7f-a2d4-6582709247ef)
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9b23d2b0-9e2c-439a-8221-4a39e74d72cf)
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 67e4e3a0-a9a8-4232-b778-678c84c0a46e)
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:31:01 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 19:31:02 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:31:02 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:31:02 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:31:02 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:51:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:51:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:51:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:51:08 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:51:08 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:51:08 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:51:08 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:51:08 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:51:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:51:09 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:51:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:51:09 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:51:10 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:51:10 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 89c3de4c-602e-428b-b991-7d88d42b04a1)
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9716be93-b327-4b7f-a396-f5350fbddba1)
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6ebf0e17-d898-4b56-a637-cbd7cfd4e450)
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 53819daa-2d1b-484c-84b3-56f091d97e0e)
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4d9eeb7b-fb46-428d-8b5f-b02c4492053a)
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b0f02025-a656-4c71-936c-d47a379cf1d5)
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 42f780b1-9383-455c-a2ab-6e2cb8aafbb9)
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 37836aa5-0d04-41b1-b79f-b4f210ea2ef2)
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:51:11 - SentrifugoDev.CommonLip.LogUtil Waiting till the loader appears
+[DEBUG] 2020-03-27 19:51:12 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:51:12 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:51:12 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:51:12 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:54:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:54:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:54:03 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:54:06 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:54:06 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:54:06 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:54:06 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:54:07 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:54:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:54:09 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:54:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:54:10 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:54:10 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4452acc9-2989-4df3-ba09-944932ed1ac5)
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 24ace6a2-2805-4a79-8e14-c999a202e6b6)
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 705197c0-12d5-41c5-97e9-15807d25d239)
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 30d09ae8-c271-4ae5-a023-5d2eff8eaf54)
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e2f00817-02fc-4aac-9134-e1d25400bce5)
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 534835a6-df15-484d-b390-ab903fe0244d)
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c7e2c2ac-75a0-4c00-b9d2-211dba895aef)
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 13d518d1-aa70-41b0-8381-39717ab011a2)
+[DEBUG] 2020-03-27 19:54:11 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:54:12 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:54:12 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:54:18 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:54:18 - SentrifugoDev.CommonLip.LogUtil Waiting till the loader disappears
+[DEBUG] 2020-03-27 19:54:28 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 19:54:31 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 19:54:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = cb4297e8-33c2-4c1b-abc0-e43c448364c5)
+[DEBUG] 2020-03-27 19:54:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c479fc6a-3f49-4b0c-bcd3-586d00e7336e)
+[DEBUG] 2020-03-27 19:54:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5875691c-04b6-48cb-8cec-c204ce26b1e3)
+[DEBUG] 2020-03-27 19:54:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dbfb4ea6-a129-4a55-a259-219d6136fd31)
+[DEBUG] 2020-03-27 19:54:36 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e48a402b-7de9-4e0d-9d73-287e18f8b7e2)
+[DEBUG] 2020-03-27 19:54:37 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f64da0ef-cbaf-4ad3-b978-b7feb33c8262)
+[DEBUG] 2020-03-27 19:54:37 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 14596df5-1415-46c5-a72b-2a0c084b9345)
+[DEBUG] 2020-03-27 19:54:37 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:54:37 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:54:44 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 19:54:48 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:54:48 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:54:48 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:54:48 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:55:05 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:55:05 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:55:05 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:55:09 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:55:09 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:55:09 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:55:09 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:55:09 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:55:12 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:55:12 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:55:12 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:55:12 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:55:13 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:55:13 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:55:13 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8cbe1a2c-ce44-4627-8435-178fa3d9c2b2)
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 72830d6c-09c9-4d3d-b75d-dd5f0201715d)
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1bba5ec8-1fc2-4b7b-a318-9bff2ecb1b2d)
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4bd2d11f-0cdb-4714-8bab-4b1d3610d921)
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fde270a2-2c5b-46a3-9787-e03ec478b0ee)
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a140d24a-1ce5-4db5-b656-e14a7e196b9a)
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 006ce3d7-ac8c-498b-9041-f2464ffa462f)
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d0d02790-9529-45a3-ada1-ca5611701315)
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:55:14 - SentrifugoDev.CommonLip.LogUtil Waiting till the loader disappears
+[DEBUG] 2020-03-27 19:55:19 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 19:55:20 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 19:55:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 38605de8-46a5-4e42-8f88-e5fe46fc3c3c)
+[DEBUG] 2020-03-27 19:55:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a968a954-9c9e-448c-b867-8530a64f6c9c)
+[DEBUG] 2020-03-27 19:55:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d54705f2-0c15-41e8-bba1-58cd02bf92f2)
+[DEBUG] 2020-03-27 19:55:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e801e811-6c37-4541-9f62-3337cc6e5459)
+[DEBUG] 2020-03-27 19:55:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d915538f-e5a4-4236-9e23-3317a10ef111)
+[DEBUG] 2020-03-27 19:55:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = abae2f5d-5427-41ee-a967-1b34032e11a0)
+[DEBUG] 2020-03-27 19:55:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 09fcaa09-dbdd-40d2-96f7-9d1b7edb615d)
+[DEBUG] 2020-03-27 19:55:20 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:55:20 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:55:21 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 19:55:23 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:55:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:55:24 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:55:24 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:55:39 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:55:39 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:55:39 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:55:43 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:55:43 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:55:43 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:55:43 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:55:43 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:55:46 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:55:46 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:55:46 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:55:46 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:55:47 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:55:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:55:47 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c5a8bde6-7e9e-4ef0-970f-88c8451d9d66)
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c5c66dc9-01b0-4103-a821-87647326fe7f)
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 39603462-a204-4803-bdd7-092339531777)
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 17bf1ce5-7cf2-446e-b8d8-bd32de325e3e)
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6c689f5c-5839-46ed-9628-bd5aa79eef3c)
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2ff635b4-7757-40e8-ab0e-a85318729b11)
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 401a35ad-8c49-496e-b3df-c1dfa28dba2c)
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c45e6b39-5aed-4e5f-9b75-99159cc72941)
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Waiting till the loader disappears
+[DEBUG] 2020-03-27 19:55:48 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 19:55:49 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 19:55:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9b8261a2-bf08-4da4-812b-e5c3c12377bc)
+[DEBUG] 2020-03-27 19:55:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 31f891b6-8f1d-45bf-924a-ca4c5b6c9977)
+[DEBUG] 2020-03-27 19:55:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 39484a7d-5258-4fe2-9a45-2cfb7983940a)
+[DEBUG] 2020-03-27 19:55:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9b310333-0b58-4d8f-aa0f-6518ba9cad8e)
+[DEBUG] 2020-03-27 19:55:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fa8e9c2d-c780-42ec-aeb6-b10f34bc56f2)
+[DEBUG] 2020-03-27 19:55:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9708f2f4-3e1b-4db5-92cd-29c803c238c9)
+[DEBUG] 2020-03-27 19:55:49 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 98a95811-a9b0-4493-b57e-ca1d86b56bf8)
+[DEBUG] 2020-03-27 19:55:49 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:55:49 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:55:50 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 19:55:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:55:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:55:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:55:54 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 19:57:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 19:57:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 19:57:13 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 19:57:17 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 19:57:17 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 19:57:17 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 19:57:17 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 19:57:18 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 19:57:18 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 19:57:18 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 19:57:18 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 19:57:19 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 19:57:19 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 785993cc-343f-40ea-8e9b-e548b28fd147)
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 8fb182b6-c356-47c5-9030-471495cffbcb)
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = db5f9617-3bf2-4bbe-8f12-be996f3408c3)
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2cb706f8-21a6-4f96-b811-a253029a65fa)
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = acfcb643-9801-44fa-bfa5-e6ceefe1ccc2)
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5ef791ac-c219-4740-a72f-866054f92af5)
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c0ae0991-414a-4383-9a02-e1c0ea32aa3c)
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 89589829-d408-4cf7-9727-90a0e4168d36)
+[DEBUG] 2020-03-27 19:57:20 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:57:21 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 19:57:21 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 19:57:21 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 19:57:21 - SentrifugoDev.CommonLip.LogUtil Waiting till the loader disappears
+[DEBUG] 2020-03-27 19:57:21 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 81e231e0-0fb8-4e49-b085-a74b7ca5ba71)
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ea07aa5c-a3ce-4db4-82fc-6f66cfa6b027)
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 23e26eb6-f784-427e-b07b-14e037027454)
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fcf1bf75-1399-4362-89ab-d9bf36248866)
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 356ac6e0-1e85-46a2-ae8d-6b75f5249f18)
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4094e587-d242-43f8-991a-04832d4c72d4)
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ed674ac9-6cc0-4290-b91b-57a8270a35ea)
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 19:57:22 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 19:57:23 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 19:57:23 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 19:57:23 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 20:00:06 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 20:00:06 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 20:00:06 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 20:00:10 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 20:00:10 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 20:00:10 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 20:00:10 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 20:00:10 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 20:00:11 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 20:00:11 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 20:00:11 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 20:00:11 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 20:00:12 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 20:00:12 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 014a8de5-5feb-4a84-b44c-e54844e05880)
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 83472b23-c07f-4c8a-9a11-cd8638b9aed7)
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 32687a2d-5045-43e7-8241-b848dac78347)
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = d4b2f1cc-2005-4fad-ace3-d0b16bdc98ed)
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b437f176-6bfb-4ed7-b839-5732f084d380)
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 61f1910c-53aa-48cb-a1f6-e4e42822ba10)
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f71ea866-3a75-41d5-a86b-b6e3d3145518)
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0184d2b3-3393-484f-b0fc-f4a7c56dd1af)
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Waiting till the loader disappears
+[DEBUG] 2020-03-27 20:00:13 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 20:00:14 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 20:00:14 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 20:00:14 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 20:00:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 20:00:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 20:00:45 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 20:00:49 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 20:00:49 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 20:00:49 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 20:00:49 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 20:00:49 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 20:00:50 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 20:00:50 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 20:00:50 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 20:00:50 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 20:00:51 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 20:00:51 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 20:00:51 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2744c1d6-85d4-40b5-93ca-a0fab252c8a4)
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 98e75049-c164-4d1a-84e3-f208ad7ec94c)
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 87f983c2-440d-4653-a331-5b73d7897fe1)
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9f7bf93c-9626-4ebc-a8d9-36a57d73decb)
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 511f9ca1-179e-4f56-8e12-0f47f41df51e)
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 54039387-1495-46e8-ae89-c87acd73a0a0)
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 53785f6b-a4b1-4110-a238-9dcb8596aaf6)
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b9d8d84a-93b3-4033-87c2-dce039f81019)
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-27 20:00:52 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 20:00:53 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 20:00:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 04bffa85-cb9b-4ccd-8323-9e2c926269fb)
+[DEBUG] 2020-03-27 20:00:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 50bb6886-8eb5-408c-aef3-49ea50e0713c)
+[DEBUG] 2020-03-27 20:00:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c14f34f8-56f5-42df-b980-33ec44a60c60)
+[DEBUG] 2020-03-27 20:00:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ad3aa7f9-8b63-4d8a-a1f7-0803d0ccc3f5)
+[DEBUG] 2020-03-27 20:00:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b194122c-1b44-44c5-b025-feddd247976f)
+[DEBUG] 2020-03-27 20:00:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 2deb01fc-fe09-4664-820c-285eebe9b980)
+[DEBUG] 2020-03-27 20:00:53 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c1aebac4-d07f-4b15-9c55-21583d5cb6ad)
+[DEBUG] 2020-03-27 20:00:53 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:00:53 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:00:54 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 20:00:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 20:00:54 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 20:00:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 20:00:54 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 20:01:00 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 20:01:00 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 20:01:00 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 20:01:03 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 20:01:03 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 20:01:03 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 20:01:03 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 20:01:04 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 20:01:04 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 20:01:04 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 20:01:04 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 20:01:05 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 20:01:05 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 1c1bf9b6-a8e3-4f0e-8a8c-c82953839bec)
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 75cdf294-679c-4b78-afe2-3a2eb9dc0ac2)
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 45f914d9-2a06-4d8a-af5e-2d2ed8f76c39)
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 94e26fe3-9200-4487-9b64-43031a6872a2)
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ca99ce70-4311-4089-89c2-899ff3a035c9)
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 214b6e84-8780-4fb8-b041-9eb212071c5b)
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bbe6e92a-9e76-4cb1-9eca-734821d12058)
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = e128d344-7093-4729-b298-eea8d0b120e0)
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:01:06 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 20:01:07 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 20:01:07 - SentrifugoDev.CommonLip.LogUtil Waiting till the Main Loader disappeared of the page
+[DEBUG] 2020-03-27 20:01:07 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 20:01:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 20:01:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 20:01:07 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 20:01:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 20:01:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 20:01:33 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 20:01:38 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 20:01:38 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 20:01:38 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 20:01:38 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 20:01:38 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 20:01:39 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 20:01:39 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 20:01:39 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 20:01:39 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 20:01:40 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 20:01:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 20:01:40 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 20:01:40 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f0e7545e-043f-4ec0-b85c-c750ae780013)
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3887641d-f9aa-4a4c-b203-3570891a948f)
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 86c3c363-6058-47c2-bef8-4b9aa17bee4f)
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 36964d9b-7edf-416a-a31b-1365c49e6993)
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bdeb7d9d-f4f0-43a6-b244-cd7eab2efdf1)
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c4252230-636c-491c-9fe6-fd9038c0dc6e)
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ceec97e1-bb78-4f73-a4f4-0ba42d5aaa23)
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = fd7d30f9-38db-487e-8bce-ac6c87489055)
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 20:01:41 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 20:01:42 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 20:01:42 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bc502083-7fa8-48ff-ba25-c0715b986dd1)
+[DEBUG] 2020-03-27 20:01:42 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4937d2b7-5b7d-48ec-9e2f-104541db7889)
+[DEBUG] 2020-03-27 20:01:42 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 79b20f1a-3025-4b54-a6ac-99e486e47550)
+[DEBUG] 2020-03-27 20:01:42 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a1d9ba5f-3e8a-4fb2-a506-2e50abce3e92)
+[DEBUG] 2020-03-27 20:01:42 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a96f2937-639b-40a5-88b7-09172edd41b5)
+[DEBUG] 2020-03-27 20:01:42 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 11310d3b-a505-42d6-8c3f-77ba9c0ce852)
+[DEBUG] 2020-03-27 20:01:42 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f368fbfb-0446-4914-a095-0fb3cee6f1d9)
+[DEBUG] 2020-03-27 20:01:42 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:01:42 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:01:43 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 20:01:43 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 20:01:43 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 20:01:43 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 20:01:43 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 20:01:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 20:01:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 20:01:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 20:01:52 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 20:01:52 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 20:01:52 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 20:01:52 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 20:01:52 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 20:01:53 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 20:01:53 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 20:01:53 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 20:01:53 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 20:01:54 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 20:01:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 20:01:54 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f0a6d83c-776e-4f66-8871-202a1708d14e)
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = ab9faf37-6355-42c0-9e0d-2653cf6d4f4b)
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0470df19-efae-43e4-9de3-893dad0d6435)
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bb2a259a-75f8-4cbf-bbc4-90414c89ce45)
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b8b5f12b-2900-42e0-9483-a4d9c2d3aa43)
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = dbcf666b-5c16-4ed8-a744-632b726899b3)
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = c0ee5bc3-e3f0-40a6-8fe1-6f5d422e02c6)
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 384573a9-c105-45c7-9b89-f0ef61261fea)
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 20:01:55 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 20:01:56 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 20:01:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6bf7d2e6-272b-46b1-8e92-d445290ddb5b)
+[DEBUG] 2020-03-27 20:01:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = eef0b9e7-cc85-4e2f-aeb3-e4482985859e)
+[DEBUG] 2020-03-27 20:01:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0a995611-021f-47ac-8689-909bf24099e4)
+[DEBUG] 2020-03-27 20:01:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f1f15248-a5e5-477b-867b-299bdee06048)
+[DEBUG] 2020-03-27 20:01:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4a8680aa-cbb6-48df-b83e-7977a5bda456)
+[DEBUG] 2020-03-27 20:01:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = cc61bc8c-069e-4411-b9c9-932803d61ec4)
+[DEBUG] 2020-03-27 20:01:56 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4844c090-c6db-4514-a361-65ff8df40d36)
+[DEBUG] 2020-03-27 20:01:56 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:01:56 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:01:57 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 20:01:57 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 20:01:57 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 20:01:57 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 20:01:57 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 20:02:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 20:02:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 20:02:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 20:02:06 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 20:02:06 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 20:02:06 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 20:02:06 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 20:02:06 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 20:02:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 20:02:07 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 20:02:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 20:02:07 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 20:02:08 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 20:02:08 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a9a2e15b-5480-4a63-adc3-46a53fb40321)
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6313c5c0-7936-4212-92f3-249168c84969)
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 095a51ae-4ca5-4822-b295-aba1a9f2130b)
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5c1f74e2-fccb-4cdc-b463-1d4373276190)
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 617e71be-04c6-4f36-a018-f377154bb3c4)
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 73659820-166e-4ae0-853a-5e9cbbc2943f)
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f0e592de-0eab-4ae7-8b65-2430cd2449eb)
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6a39d61f-f33f-45e1-a35e-3f8dcd302e91)
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 20:02:09 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f45d5b61-ff21-417c-b127-c0cc6e57865b)
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = a9f335b7-a829-43af-b811-dbe72e247a92)
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 90eb6a5c-faf2-4102-9990-acd066e0de07)
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 739e8f28-4ad6-4faa-b41c-1032a80489df)
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 0547ec67-b6ec-4d91-94eb-3c4e9875f7ed)
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = b4537dfd-29a3-4313-8103-76f89b18b43e)
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 6db091fd-6ea7-4fe2-94f4-16e469ae9ea8)
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:02:10 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:02:11 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 20:02:11 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 20:02:11 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 20:02:11 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 20:02:13 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-03-27 20:44:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-03-27 20:44:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-03-27 20:44:04 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LeaveRequestTabJsonFile.json
+[DEBUG] 2020-03-27 20:44:08 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-03-27 20:44:08 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-03-27 20:44:08 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-03-27 20:44:08 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0025
+[DEBUG] 2020-03-27 20:44:08 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-03-27 20:44:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-03-27 20:44:09 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-03-27 20:44:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-03-27 20:44:10 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-03-27 20:44:10 - SentrifugoDev.CommonLip.LogUtil Clicked on My Leave button in Self Service Menu
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Clicked on 'All' filter button in My Leave  tab
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Clicked on 'Search' button at the top of Table plugin
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 10218ad2-f8c5-4772-b2e0-580d2abe61b0)
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bdb8a4a3-451b-4f8d-9277-b25703d08b75)
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 781dca1a-c2a8-41cd-b499-2636abb596f1)
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 65bdbe59-3b2b-417a-bf32-5b6679433675)
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 5ab6e7f1-2032-4ebb-81bf-f37978aea018)
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 4e82e4dd-fc66-412d-b620-f2959260fb2d)
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 7ff8ba53-5392-4c71-9651-04b00a5b8e48)
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:44:11 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 939af879-2097-4f26-af16-e5b9c84882ad)
+[DEBUG] 2020-03-27 20:44:12 - SentrifugoDev.CommonLip.LogUtil Selected year 2020 in 'Year' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:44:12 - SentrifugoDev.CommonLip.LogUtil Selected month 03 in 'Month' dropdown of Date Picker Calendar
+[DEBUG] 2020-03-27 20:44:12 - SentrifugoDev.CommonLip.LogUtil Searched all records by selected date 2020/03/07in 'To Date' field in 'To Date' column
+[DEBUG] 2020-03-27 20:44:12 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 20
+[DEBUG] 2020-03-27 20:44:12 - SentrifugoDev.CommonLip.LogUtil Selected option 50 in 'Records per page' dropdown
+[DEBUG] 2020-03-27 20:44:13 - SentrifugoDev.CommonLip.LogUtil Count of records in the tabel is = 31
+[DEBUG] 2020-03-27 20:44:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 9dc2ab94-3db0-4f01-ae51-46b8647ab0b5)
+[DEBUG] 2020-03-27 20:44:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3cd55a77-4656-4039-93d1-30ba04fe9aeb)
+[DEBUG] 2020-03-27 20:44:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = bdb18ca4-36d0-4f75-a4ec-999c94048496)
+[DEBUG] 2020-03-27 20:44:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 625acfd9-0ce1-4030-b9ad-a97ca4b585e7)
+[DEBUG] 2020-03-27 20:44:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f864daa4-d43a-4b03-a82c-a0ffce48c290)
+[DEBUG] 2020-03-27 20:44:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = 3e176b9f-4da8-42f8-aba6-6351d7e58d6c)
+[DEBUG] 2020-03-27 20:44:13 - SentrifugoDev.CommonLip.LogUtil Scrolled to the element Element (id = f485b071-9be6-42a4-b426-3cfb3f582468)
+[DEBUG] 2020-03-27 20:44:13 - SentrifugoDev.CommonLip.LogUtil Got the list of all columns name in the table
+[DEBUG] 2020-03-27 20:44:13 - SentrifugoDev.CommonLip.LogUtil Determined the sequence number of searched column: To Date
+[DEBUG] 2020-03-27 20:44:14 - SentrifugoDev.CommonLip.LogUtil Got the list of all data of searched column: To Date
+[DEBUG] 2020-03-27 20:44:14 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-03-27 20:44:14 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-03-27 20:44:14 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page
+[DEBUG] 2020-03-27 20:44:15 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser

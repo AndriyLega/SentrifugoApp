@@ -1,0 +1,22 @@
+[DEBUG] 2020-02-25 17:42:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-25 17:42:10 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-25 17:42:10 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-25 17:42:10 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-25 17:42:40 - SentrifugoDev.CommonLip.LogUtil Filled in email field with data:EMPP0025
+[DEBUG] 2020-02-25 17:42:40 - SentrifugoDev.CommonLip.LogUtil Filled in password field with data:Asdf*2810
+[DEBUG] 2020-02-25 17:42:41 - SentrifugoDev.CommonLip.LogUtil Clicks on Login button
+[DEBUG] 2020-02-25 17:42:41 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-02-25 17:42:41 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-02-25 19:25:53 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-25 19:25:58 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-25 19:25:58 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-25 19:25:58 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-25 19:25:58 - SentrifugoDev.CommonLip.LogUtil Filled in email field with data:EMPP0025
+[DEBUG] 2020-02-25 19:25:58 - SentrifugoDev.CommonLip.LogUtil Filled in password field with data:Asdf*2810
+[DEBUG] 2020-02-25 19:25:59 - SentrifugoDev.CommonLip.LogUtil Clicks on Login button
+[DEBUG] 2020-02-25 19:25:59 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-02-25 19:25:59 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-02-25 19:26:03 - SentrifugoDev.CommonLip.LogUtil Open the User Menu
+[DEBUG] 2020-02-25 19:26:04 - SentrifugoDev.CommonLip.LogUtil Go to Settings page
+[DEBUG] 2020-02-25 19:26:12 - SentrifugoDev.CommonLip.LogUtil Go to Self Service page
+[DEBUG] 2020-02-25 19:31:15 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser

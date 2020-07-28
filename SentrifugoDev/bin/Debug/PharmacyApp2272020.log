@@ -1,0 +1,210 @@
+[DEBUG] 2020-02-27 16:49:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-27 16:49:52 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-02-27 16:49:57 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 16:49:57 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 16:49:57 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 16:49:57 - SentrifugoDev.CommonLip.LogUtil Filled in email field with data:EMPP0025
+[DEBUG] 2020-02-27 16:49:57 - SentrifugoDev.CommonLip.LogUtil Filled in password field with data:Asdf*2810
+[DEBUG] 2020-02-27 16:49:58 - SentrifugoDev.CommonLip.LogUtil Clicks on Login button
+[DEBUG] 2020-02-27 16:49:58 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-02-27 16:49:58 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-02-27 16:49:58 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-02-27 16:49:59 - SentrifugoDev.CommonLip.LogUtil Clicked on View Profile option in 'User Menu'
+[DEBUG] 2020-02-27 16:49:59 - SentrifugoDev.CommonLip.LogUtil Open Settings tab on User Profile page
+[DEBUG] 2020-02-27 16:49:59 - SentrifugoDev.CommonLip.LogUtil Open widgets list in the Settings tap
+[DEBUG] 2020-02-27 16:49:59 - SentrifugoDev.CommonLip.LogUtil Go to Appraisals page
+[DEBUG] 2020-02-27 16:50:00 - SentrifugoDev.CommonLip.LogUtil Moving Widget:By.XPath: //a[@id=161]to the Drag and Drop box on Settings tap
+[DEBUG] 2020-02-27 16:50:01 - SentrifugoDev.CommonLip.LogUtil Waiting till the loader disappeared of the Drag & Drop box
+[DEBUG] 2020-02-27 16:50:01 - SentrifugoDev.CommonLip.LogUtil Click 'Save' button of Darg & Drop box in the Settings tap and navogates to the Dashboard page
+[DEBUG] 2020-02-27 16:50:01 - SentrifugoDev.CommonLip.LogUtil Check if new Widget displayed on Dashboard page
+[DEBUG] 2020-02-27 16:50:01 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-02-27 16:50:02 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-02-27 16:50:02 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page 
+[DEBUG] 2020-02-27 16:50:02 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 16:50:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-27 16:50:47 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-02-27 16:50:51 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 16:50:51 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 16:50:51 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 16:50:51 - SentrifugoDev.CommonLip.LogUtil Filled in email field with data:EMPP0025
+[DEBUG] 2020-02-27 16:50:51 - SentrifugoDev.CommonLip.LogUtil Filled in password field with data:Asdf*2810
+[DEBUG] 2020-02-27 16:50:52 - SentrifugoDev.CommonLip.LogUtil Clicks on Login button
+[DEBUG] 2020-02-27 16:50:52 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-02-27 16:50:52 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-02-27 16:50:52 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-02-27 16:50:52 - SentrifugoDev.CommonLip.LogUtil Clicked on View Profile option in 'User Menu'
+[DEBUG] 2020-02-27 16:50:53 - SentrifugoDev.CommonLip.LogUtil Open Settings tab on User Profile page
+[DEBUG] 2020-02-27 16:50:53 - SentrifugoDev.CommonLip.LogUtil Open widgets list in the Settings tap
+[DEBUG] 2020-02-27 16:50:53 - SentrifugoDev.CommonLip.LogUtil Go to Appraisals page
+[DEBUG] 2020-02-27 16:50:54 - SentrifugoDev.CommonLip.LogUtil Moving Widget:By.XPath: //a[@id=161]to the Drag and Drop box on Settings tap
+[DEBUG] 2020-02-27 16:50:54 - SentrifugoDev.CommonLip.LogUtil Waiting till the loader disappeared of the Drag & Drop box
+[DEBUG] 2020-02-27 16:50:54 - SentrifugoDev.CommonLip.LogUtil Click 'Save' button of Darg & Drop box in the Settings tap and navogates to the Dashboard page
+[DEBUG] 2020-02-27 16:50:55 - SentrifugoDev.CommonLip.LogUtil Check if new Widget displayed on Dashboard page
+[DEBUG] 2020-02-27 16:50:55 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-02-27 16:50:55 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-02-27 16:50:55 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page 
+[DEBUG] 2020-02-27 16:50:55 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 16:51:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-27 16:51:02 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-02-27 16:51:06 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 16:51:06 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 16:51:06 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 16:51:06 - SentrifugoDev.CommonLip.LogUtil Filled in email field with data:EMPP0025
+[DEBUG] 2020-02-27 16:51:06 - SentrifugoDev.CommonLip.LogUtil Filled in password field with data:Asdf*2810
+[DEBUG] 2020-02-27 16:51:07 - SentrifugoDev.CommonLip.LogUtil Clicks on Login button
+[DEBUG] 2020-02-27 16:51:07 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-02-27 16:51:07 - SentrifugoDev.CommonLip.LogUtil Login to system with Empolyee role
+[DEBUG] 2020-02-27 16:51:07 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-02-27 16:51:07 - SentrifugoDev.CommonLip.LogUtil Clicked on View Profile option in 'User Menu'
+[DEBUG] 2020-02-27 16:51:07 - SentrifugoDev.CommonLip.LogUtil Open Settings tab on User Profile page
+[DEBUG] 2020-02-27 16:51:07 - SentrifugoDev.CommonLip.LogUtil Open Shortcuts list in the Settings tap
+[DEBUG] 2020-02-27 16:51:07 - SentrifugoDev.CommonLip.LogUtil Go to Appraisals page
+[DEBUG] 2020-02-27 16:51:08 - SentrifugoDev.CommonLip.LogUtil Moving Shortcut:By.XPath: //a[@id=174]to the Drag and Drop box on Settings tap
+[DEBUG] 2020-02-27 16:51:09 - SentrifugoDev.CommonLip.LogUtil Waiting till the loader disappeared of the Drag & Drop box
+[DEBUG] 2020-02-27 16:51:09 - SentrifugoDev.CommonLip.LogUtil Click 'Save' button of Darg & Drop box in the Settings tap and navogates to the Dashboard page
+[DEBUG] 2020-02-27 16:51:09 - SentrifugoDev.CommonLip.LogUtil Check if new Shortcut displayed on Dashboard page
+[DEBUG] 2020-02-27 16:51:09 - SentrifugoDev.CommonLip.LogUtil Clicked on 'User Menu' DropDown
+[DEBUG] 2020-02-27 16:51:09 - SentrifugoDev.CommonLip.LogUtil Clicked on Logout option in 'User Menu'
+[DEBUG] 2020-02-27 16:51:09 - SentrifugoDev.CommonLip.LogUtil Waiting for Login page 
+[DEBUG] 2020-02-27 16:51:10 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 16:52:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-27 16:52:17 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-02-27 16:52:20 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 16:52:20 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 16:52:20 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 16:52:21 - SentrifugoDev.CommonLip.LogUtil Filled in email field with data:EMPP0049
+[DEBUG] 2020-02-27 16:52:21 - SentrifugoDev.CommonLip.LogUtil Filled in password field with data:Asdf*2810
+[DEBUG] 2020-02-27 16:52:21 - SentrifugoDev.CommonLip.LogUtil Clicks on Login button
+[DEBUG] 2020-02-27 16:52:21 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-02-27 16:52:21 - SentrifugoDev.CommonLip.LogUtil Check if User Menu present
+[DEBUG] 2020-02-27 16:52:22 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 16:52:51 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-27 16:52:51 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-02-27 16:52:55 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 16:52:55 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 16:52:55 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 16:52:55 - SentrifugoDev.CommonLip.LogUtil Filled in email field with data:EMPP0049
+[DEBUG] 2020-02-27 16:52:55 - SentrifugoDev.CommonLip.LogUtil Filled in password field with data:Asdf*2810
+[DEBUG] 2020-02-27 16:52:55 - SentrifugoDev.CommonLip.LogUtil Clicks on Login button
+[DEBUG] 2020-02-27 16:53:07 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 16:55:18 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-27 16:55:18 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-02-27 16:55:22 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 16:55:22 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 16:55:22 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 16:55:22 - SentrifugoDev.CommonLip.LogUtil Filled in email field with data:EMPP0049
+[DEBUG] 2020-02-27 16:55:22 - SentrifugoDev.CommonLip.LogUtil Filled in password field with data:Asdf*2810
+[DEBUG] 2020-02-27 16:55:23 - SentrifugoDev.CommonLip.LogUtil Clicks on Login button
+[DEBUG] 2020-02-27 16:55:33 - SentrifugoDev.CommonLip.LogUtil I've been waiting 10 seconds element but it is not visible
+[DEBUG] 2020-02-27 16:55:33 - SentrifugoDev.CommonLip.LogUtil **********************Home page did not open********************** By.XPath: //div[@class='home_menu1']
+[DEBUG] 2020-02-27 16:55:34 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 16:55:49 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-27 16:55:49 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-02-27 16:55:53 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 16:55:53 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 16:55:53 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 16:55:53 - SentrifugoDev.CommonLip.LogUtil Filled in email field with data:EMPP0049
+[DEBUG] 2020-02-27 16:55:53 - SentrifugoDev.CommonLip.LogUtil Filled in password field with data:Asdf*2810
+[DEBUG] 2020-02-27 16:55:54 - SentrifugoDev.CommonLip.LogUtil Clicks on Login button
+[DEBUG] 2020-02-27 16:55:54 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-02-27 16:55:54 - SentrifugoDev.CommonLip.LogUtil Check if User Menu present
+[DEBUG] 2020-02-27 16:55:54 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:56:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-27 17:56:58 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-02-27 17:57:02 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:02 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:02 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:02 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-02-27 17:57:03 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-02-27 17:57:03 - SentrifugoDev.CommonLip.LogUtil Getting text from warning message from Email field
+[DEBUG] 2020-02-27 17:57:03 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:07 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:07 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:07 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:07 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-02-27 17:57:07 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-02-27 17:57:07 - SentrifugoDev.CommonLip.LogUtil Getting text from warning message from Password field
+[DEBUG] 2020-02-27 17:57:07 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:11 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:11 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:11 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:11 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:2EMPP0049
+[DEBUG] 2020-02-27 17:57:11 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-02-27 17:57:11 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-02-27 17:57:11 - SentrifugoDev.CommonLip.LogUtil Getting text from warning message of incorrect creds
+[DEBUG] 2020-02-27 17:57:12 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:16 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:16 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:16 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:16 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-02-27 17:57:16 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:1Asdf*2810
+[DEBUG] 2020-02-27 17:57:16 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-02-27 17:57:16 - SentrifugoDev.CommonLip.LogUtil Getting text from warning message of incorrect creds
+[DEBUG] 2020-02-27 17:57:17 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:21 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:21 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:21 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:21 - SentrifugoDev.CommonLip.LogUtil Filled in Email field with data:EMPP0049
+[DEBUG] 2020-02-27 17:57:21 - SentrifugoDev.CommonLip.LogUtil Filled in Password field with data:Asdf*2810
+[DEBUG] 2020-02-27 17:57:22 - SentrifugoDev.CommonLip.LogUtil Clicked on Login button
+[DEBUG] 2020-02-27 17:57:22 - SentrifugoDev.CommonLip.LogUtil Waiting for Home page 
+[DEBUG] 2020-02-27 17:57:22 - SentrifugoDev.CommonLip.LogUtil Check if User Menu present
+[DEBUG] 2020-02-27 17:57:22 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:26 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:26 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:26 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:27 - SentrifugoDev.CommonLip.LogUtil Clicked on Forgot Password Link
+[DEBUG] 2020-02-27 17:57:27 - SentrifugoDev.CommonLip.LogUtil Checks if the forgot password form is appeared
+[DEBUG] 2020-02-27 17:57:27 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:31 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:31 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:31 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:32 - SentrifugoDev.CommonLip.LogUtil Clicked on Forgot Password Link
+[DEBUG] 2020-02-27 17:57:32 - SentrifugoDev.CommonLip.LogUtil Checks if Email field in Forgot Password form is present
+[DEBUG] 2020-02-27 17:57:32 - SentrifugoDev.CommonLip.LogUtil Checks if Send Password button in Forgot Password form is present
+[DEBUG] 2020-02-27 17:57:32 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:36 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:36 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:36 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:36 - SentrifugoDev.CommonLip.LogUtil Clicked on Forgot Password Link
+[DEBUG] 2020-02-27 17:57:36 - SentrifugoDev.CommonLip.LogUtil Clicked on Send Password button in the Forgot Password Form
+[DEBUG] 2020-02-27 17:57:36 - SentrifugoDev.CommonLip.LogUtil Getting text from error message from Email field in the Forgot Password form
+[DEBUG] 2020-02-27 17:57:37 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:41 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:41 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:41 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:42 - SentrifugoDev.CommonLip.LogUtil Clicked on Forgot Password Link
+[DEBUG] 2020-02-27 17:57:42 - SentrifugoDev.CommonLip.LogUtil Filled in Email field in Forgot password form with data:lega1mailinator.com
+[DEBUG] 2020-02-27 17:57:42 - SentrifugoDev.CommonLip.LogUtil Clicked on Send Password button in the Forgot Password Form
+[DEBUG] 2020-02-27 17:57:42 - SentrifugoDev.CommonLip.LogUtil Getting text from error message from Email field in the Forgot Password form
+[DEBUG] 2020-02-27 17:57:43 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:47 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:47 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:47 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Forgot Password Link
+[DEBUG] 2020-02-27 17:57:47 - SentrifugoDev.CommonLip.LogUtil Filled in Email field in Forgot password form with data:test@test.com
+[DEBUG] 2020-02-27 17:57:47 - SentrifugoDev.CommonLip.LogUtil Clicked on Send Password button in the Forgot Password Form
+[DEBUG] 2020-02-27 17:57:48 - SentrifugoDev.CommonLip.LogUtil Waiting till the error message appears in the Forgot Password form
+[DEBUG] 2020-02-27 17:57:48 - SentrifugoDev.CommonLip.LogUtil Getting text from error message from Email field in the Forgot Password form
+[DEBUG] 2020-02-27 17:57:48 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:51 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:51 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:51 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Forgot Password Link
+[DEBUG] 2020-02-27 17:57:52 - SentrifugoDev.CommonLip.LogUtil Filled in Email field in Forgot password form with data:lega1@mailinator.com
+[DEBUG] 2020-02-27 17:57:52 - SentrifugoDev.CommonLip.LogUtil Clicked on Send Password button in the Forgot Password Form
+[DEBUG] 2020-02-27 17:57:54 - SentrifugoDev.CommonLip.LogUtil Waiting till the new password is sending 
+[DEBUG] 2020-02-27 17:57:54 - SentrifugoDev.CommonLip.LogUtil Getting text from success message of the Forgot Password
+[DEBUG] 2020-02-27 17:57:55 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 17:57:59 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 17:57:59 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 17:57:59 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 17:57:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Help button
+[DEBUG] 2020-02-27 17:58:01 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
+[DEBUG] 2020-02-27 18:02:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file LoginJsonFile.json
+[DEBUG] 2020-02-27 18:02:55 - SentrifugoDev.CommonLip.LogUtil Read all data from Json file UserProfileJsonFile.json
+[DEBUG] 2020-02-27 18:02:58 - SentrifugoDev.CommonLip.LogUtil **********Starting execution of a new test**********
+[DEBUG] 2020-02-27 18:02:58 - SentrifugoDev.CommonLip.LogUtil Opened Chrome browser
+[DEBUG] 2020-02-27 18:02:58 - SentrifugoDev.CommonLip.LogUtil Navigating to http://sentrifugo-prerelease.jetsoftpro.com/
+[DEBUG] 2020-02-27 18:02:59 - SentrifugoDev.CommonLip.LogUtil Clicked on Help button
+[DEBUG] 2020-02-27 18:03:00 - SentrifugoDev.CommonLip.LogUtil Close Chrome browser
