@@ -79,7 +79,7 @@ namespace SentrifugoDev.PageObjects
         #region Login Form Methods
 
         /// <summary>
-        /// Method WAITS UNTIL Login page appears
+        /// Method WAITS UNTIL Login page appears (commit)
         /// </summary>
         public void WaitUntilLoginPageAppears()
         {
