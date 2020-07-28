@@ -120,7 +120,7 @@ namespace SentrifugoDev.PageObjects
 
         #region Quick Actions Methods
         /// <summary>
-        /// Methods clicks on option: 'Leave Request' or 'Service Request' or 'Recruitments' in 'Create New' dropdown
+        /// Methods clicks on option: 'Leave Request' or 'Service Request' or 'Recruitments' in 'Create New' dropdown (seconf commit)
         /// </summary>
         public void SelectCreateNewOption(CreateNewDropDownOptions options)
         {
